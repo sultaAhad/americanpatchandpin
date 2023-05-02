@@ -12,7 +12,7 @@
                 <img src="img/app-logo.png" class="img-fluid" alt="">
             </div>
             <div class="form-heading">
-                <h1 class="ml3">Website under Maintenance</h1>
+                <h1>Website under Maintenance</h1>
                 <p>Please email <a href=""> sales@americanpatchandpin.com </a> with any quotes, or general questions
                     that you may have.
                 </p>
@@ -96,7 +96,7 @@
                         <div class="col-lg-6 p-0">
                             <div class="file-upload">
                                 <div class="file-select">
-                                    <div class="file-select-button" id="fileName">No Choose File</div>
+                                    <div class="file-select-button" id="fileName">Choose File</div>
                                     <div class="file-select-name" id="noFile">No file chosen...</div>
                                     <input type="file" name="chooseFile" id="chooseFile">
                                 </div>
@@ -184,131 +184,135 @@
                         </div>
                         <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row">
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins1.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins2.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins3.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins4.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins5.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins6.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins7.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins8.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins9.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins10.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins11.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins12.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins13.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins14.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins15.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins16.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins17.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins18.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins19.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins20.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins21.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins22.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins23.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins24.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 second__pane">
                                     <figure>
                                         <img src="img/pin/pins25.jpg" class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
+                            </div>
+                            
+                            <div class="text-center">
+                                <a class="loadmore" href="javascript:void(0)" id="more">Load More</a>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
@@ -370,3 +374,33 @@
 <!-- Footer Include Here -->
 <?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->
+
+
+<script>
+$(document).ready(function() {
+    $('.second__pane').hide();
+    $('.second__pane').each(function(index, value) {
+        if (index < 6) {
+            $(this).show();
+        }
+    });
+    if ($('.second__pane:hidden').length) {
+        $('#more').show();
+    }
+    if (!$('.second__pane:hidden').length) {
+        $('#more').hide();
+    }
+
+});
+
+$('#more').on('click', function() {
+    $('.second__pane:hidden').each(function(index, value) {
+        if (index < 3) {
+            $(this).show();
+        }
+    });
+    if (!$('.second__pane:hidden').length) {
+        $('#more').hide();
+    }
+});
+</script>

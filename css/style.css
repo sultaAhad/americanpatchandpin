@@ -30,10 +30,8 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	background: linear-gradient(185deg, #d4494d, #d4494d, #445082, #445082);
-	background-size: 500% 500%;
-	animation: gradient 15s ease infinite;
-	height: 100vh;
+	background: rgb(212,73,77);
+	background: linear-gradient(180deg, rgba(212,73,77,1) 0%, rgba(68,80,130,1) 100%);
 }
 
 @keyframes gradient {
@@ -181,15 +179,18 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .file-upload .file-select {
     display: block;
+    border: 2px solid #dce4ec;
     color: #34495e;
     cursor: pointer;
     height: 46px;
     line-height: 42px;
     text-align: left;
+    background: #ffffff;
     overflow: hidden;
     position: relative;
     padding: 0px 0px;
     margin: 5px 5px;
+    border-radius: 4px;
 }
 .file-upload .file-select .file-select-button {
 	background: #dce4ec;
@@ -553,7 +554,8 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 /* tabs css stat here */
 .nav-link {
     display: block;
-    padding: .5rem 1rem;
+    font-size: 20px;
+    padding: .75rem 2rem;
     color: #fff;
     text-decoration: none;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
@@ -563,4 +565,13 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 }
 .nav-link:focus, .nav-link:hover {
     color: #fff;
+}
+.loadmore {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #000;
+    padding: 10px 20px;
+	display: inline-block;
+	margin: 20px 0px;
 }
