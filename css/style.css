@@ -121,13 +121,19 @@ body {
 	font-size: 16px;
 }
 .btn-wrapper .btn {
-	background: #000;
-	width: 100%;
-	text-align: center;
-	color: #fff;
-	font-family: var(--font-default);
-	font-size: 18px;
-	border-radius: 5px 5px 5px 5px;
+    background: #000;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: var(--font-default);
+    font-size: 18px;
+    border-radius: 5px 5px 5px 5px;
+    height: 51px;
+    /* margin: 0; */
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 section.form-wrapper {
 	padding-bottom: 20px;
