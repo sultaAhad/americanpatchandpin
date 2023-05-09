@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/variable.css">
 
 <!-- App Include Here -->
@@ -310,7 +310,7 @@
                                     </figure>
                                 </div>
                             </div>
-                            
+
                             <div class="text-center">
                                 <a class="loadmore" href="javascript:void(0)" id="more">Load More</a>
                             </div>

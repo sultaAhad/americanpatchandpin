@@ -19,7 +19,6 @@
 <!-- Font Awesome CDN -->
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
-<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 <!-- Anime.js CDN -->
 <link rel="stylesheet" href="css/animate.css">
 <!-- Anime.js CDN -->
@@ -32,3 +31,5 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
 <!-- slick slider cdn -->
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">

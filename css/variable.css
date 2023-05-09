@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
 /* Variable Css Start Here */
 
 /* Font cdn starts here */
@@ -16,10 +17,10 @@
 	src: url("../fonts/poppins/Poppins-Regular.ttf");
 	font-family: "poppins-Regular";
 }
- @font-face {
+@font-face {
 	font-family: "MarcellusSC-Regular";
 	src: url("../fonts/MarcellusSC-Regular.ttf");
-} 
+}
 /* @font-face {
 	font-family: "Montserrat-bold";
 	src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
