@@ -4643,3 +4643,10 @@ anime.timeline({
         delay: 1000
     });
 </script>
+
+<script>
+$('.testimonial-slider').slick({
+    dots: true,
+    arrows: true,
+});
+</script>
