@@ -1,0 +1,115 @@
+section.patches-sec {
+	background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important;
+	position: relative;
+}
+section.patches-sec {
+	background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important;
+	position: relative;
+	padding: 4% 0;
+}
+figure.patches-img {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+.patches-content h1 {
+	color: #ffffff;
+	font-weight: 700;
+	font-size: 2.5rem;
+}
+.patches-content ul li {
+	display: flex;
+	align-items: baseline;
+	color: #fff;
+}
+.patches-content ul li h5 {
+	font-size: 13px;
+	line-height: 1.5;
+	padding-left: 10px;
+}
+.patches-content ul li i.fa.fa-circle {
+	font-size: 9px;
+}
+.image-box-wrapper {
+	display: flex;
+	gap: 20px;
+	align-items: center;
+	margin-bottom: 30px;
+}
+.image-box-wrapper img.img-fluid {
+	width: 25%;
+	height: 73px;
+	object-fit: fill;
+}
+.image-box-wrapper h5 {
+	color: #ffffff;
+	font-size: 14px;
+	padding-right: 50px;
+	text-transform: uppercase;
+}
+figure.lion-img-shadow-box.justify-content-center.d-flex img {
+	padding: 30px 50px;
+	box-shadow: 1px 1px 8px 0px rgb(59 49 49 / 60%);
+	-webkit-box-shadow: 1px 1px 8px 0px rgb(59 49 49 / 14%);
+	-moz-box-shadow: 1px 1px 8px 0px rgba(59, 49, 49, 0.6);
+	border-radius: 4px;
+	background-color: #fff;
+	height: 478px;
+	object-fit: fill;
+}
+ul.list-sports li {
+	display: flex;
+	gap: 13px;
+	margin-bottom: 9px;
+	align-items: baseline;
+}
+ul.list-sports li i {
+	border: 1px solid black;
+	border-radius: 50%;
+	padding: 4px;
+	font-size: 12px;
+}
+ul.list-sports {
+	padding: 0px 0px 0px 20px;
+	border-style: solid;
+	border-width: 0px 0px 0px 5px;
+	border-color: #265787;
+	margin-top: 30px;
+}
+.banner.pricing a.butn.butn__new {
+	background: #265787;
+	margin-top: 0px;
+}
+section.custom-embriodered .border-bottom {
+	height: 3px;
+	background: #b2081c;
+	margin-bottom: 20px;
+}
+section.custom-embriodered h2 {
+	color: rgba(0, 0, 0, 0.8);
+	font-family: "Roboto";
+	font-size: 1.9rem;
+	font-weight: 500;
+	line-height: 1.1666em;
+}
+ul.determinig-size-list li {
+	display: flex;
+	align-items: baseline;
+	gap: 20px;
+	margin-bottom: 10px;
+}
+ul.determinig-size-list li i {
+	border: 1px solid black;
+	border-radius: 50%;
+	padding: 4px;
+	font-size: 12px;
+	background: #000;
+	color: #fff;
+}
+.determining-size-content h4 {
+	font-size: 30px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}

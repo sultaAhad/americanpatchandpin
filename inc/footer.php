@@ -1,8 +1,5 @@
 <!-- Footer Start Here -->
 <footer class="text-white">
-    <div class="img-mountain  footer-img-mountain">
-        <img src="img/img-mountain.webp" class="img-fluid" alt="">
-    </div>
     <div class="container">
         <div class="row center-wrapper">
             <div class="col-lg-3  col-md-12 col-12 ">

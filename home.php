@@ -179,6 +179,7 @@
         </div>
     </div>
 </section>
+
 <section class="main-tabs">
     <div class="container">
         <div class="row">
@@ -915,6 +916,7 @@
         </div>
     </div>
 </section>
+
 <section class="who-worked-with incredible-value">
     <div class="container">
         <div class="row">
@@ -968,6 +970,7 @@
         </div>
     </div>
 </section>
+
 <section class="main-tabs our-forbidden-custom">
     <div class="container">
         <div class="row">
@@ -1109,260 +1112,25 @@
 </section>
 <!-- section end -->
 
-
-
-
 <!-- FAQ section Start -->
-<section class="faq">
-    <div class="container">
-
-        <div class="col-lg-10 mx-auto">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>FREQUENTLY ASKED QUESTIONS</h2>
-                    <div class="row">
-                        <div class="col-lg-3">
-                            <div class="border-bottom"></div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-6">
-                    <p>Want to know more about our custom designed patches, pins, and coins?
-                        Learn more about the quality we provide at every step.</p>
-                </div>
-            </div>
-
-            <div class="accordion mt-3" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            How do I get started placing an order?
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                        data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <p>The best way is to fill out our <a href="">free quote form</a> for the product you are
-                                interested in. Then,
-                                a member of our team will reach out, provide a price quote, and can answer any further
-                                questions you may have about ordering.</p>
-
-                            <p>You can also call us at <a href="">1-888-281-4114</a>.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            How long will it take to get my custom patches?
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                        data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <p>We offer fast delivery of your custom order in just 7-12 days.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            Will I get to see what my product looks like before I pay?
-                        </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                        data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <p>Yes! We provide a free PDF proof of your order before you pay so you can see and approve
-                                exactly what you’re getting. </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingFour">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            What if I don't like the proof?
-                        </button>
-                    </h2>
-                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                        data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <p>You can request any changes you need and we will update the proof until you are 100%
-                                satisfied. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<?php include 'inc/faq-sec.php'; ?>
 <!-- FAQ section end -->
 
-<!-- TESTIMONIALS section end -->
-<section class="testimonials">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 mx-auto text-center">
-                <h4>TESTIMONIALS</h4>
-                <h2>HAPPY CUSTOMERS</h2>
-                <div class="row">
-                    <div class="col-lg-2 mx-auto">
-                        <div class="border-bottom"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="testimonial-icon-wrapper">
-            <figure><img src="img/testimonial-icon.jpg" class="img-fluid"></figure>
-        </div>
-        <div class="testimonial-slider col-lg-7 mx-auto">
-            <div class="testimonials-wap">
-                <p>
-                    This company is AWEsome. I've used them for 6 orders now, and they are great all around...Gary, the
-                    President/Owner, is super responsive to emails, the quality of the work is great, and the cost is
-                    reasonable. </p>
-                <span class="testimonial__name">JEN D.</span>
-            </div>
-
-            <div class="testimonials-wap">
-                <p>
-                    I've purchased pins for my team from American Patch and Pin for the past 3 years. They've arrived
-                    each year on time and the quality is amazing...I highly recommend this company. </p>
-                <span class="testimonial__name">MICHAEL V.</span>
-            </div>
-
-            <div class="testimonials-wap">
-                <p>
-                    Amazing customer service!! Designed, made and shipped in a super quick manner! Thanks for making our
-                    pins for nationals! </p>
-                <span class="testimonial__name">JENNIFER M.</span>
-            </div>
-
-        </div>
-
-    </div>
-</section>
+<!-- TESTIMONIALS section start -->
+<?php include 'inc/testimonial-sec.php'; ?>
 <!-- TESTIMONIALS section end -->
 
-<section class="cta">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <h3>100% BEST PRICE GUARANTEE</h3>
-            </div>
-            <div class="col-lg-6">
-                <p>Our custom products are made with high-quality materials, at a price that can’t be beat.</p>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- BEST PRICE section start -->
+<?php include 'inc/best-price-sec.php'; ?>
+<!-- BEST PRICE section end -->
 
-<section class="contact">
-    <div class="container">
+<!-- CONTACT section start -->
+<?php include 'inc/contect-sec.php'; ?>
+<!-- CONTACT section end -->
 
-        <div class="row">
-            <div class="col-lg-10 mx-auto text-center mb-5">
-                <h4>CONTACT</h4>
-                <h2>GET IN TOUCH</h2>
-                <div class="row">
-                    <div class="col-lg-2 mx-auto">
-                        <div class="border-bottom"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-6">
-                <figure><img src="img/group-img-min-1024x388.png" class="img-fluid w-100 mb-3"></figure>
-                <p>Our embroidered custom patches are 100% customizable, along with our custom lapel pins, trading pins,
-                    and challenge coins. No matter what your occasion, we can create something memorable.
-                </p>
-            </div>
-            <div class="col-lg-6 ps-lg-5">
-                <form class="" method="POST">
-                    <div class="row">
-
-                        <div class="form-group mt-2 col-lg-12">
-                            <label>Name</label>
-                            <input type="text" name="" id="" placeholder="Enter Name" class="form-control" required="">
-                        </div>
-
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Email</label>
-                            <input type="email" name="" id="" placeholder="Enter Email" class="form-control"
-                                required="">
-                        </div>
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Phone</label>
-                            <input type="email" name="" id="" placeholder="Enter Phone" class="form-control"
-                                required="">
-                        </div>
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Quantity</label>
-                            <select class="form-select" aria-label="Default select example">
-                                <option selected>6</option>
-                                <option value="1">12</option>
-                                <option value="2">25</option>
-                                <option value="3">50</option>
-                            </select>
-                        </div>
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Product</label>
-                            <select class="form-select" aria-label="Default select example">
-                                <option selected>Patches</option>
-                                <option value="1">Lapel Pins</option>
-                                <option value="2">challenge Coins</option>
-                                <option value="3">Trading Pins</option>
-                            </select>
-                        </div>
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Size</label>
-                            <input type="text" name="" id="" placeholder="Enter Size" class="form-control" required="">
-                        </div>
-                        <div class="form-group mt-2 col-lg-6">
-                            <label>Date Needed</label>
-                            <input type="date" name="" id="" placeholder="Enter Size" class="form-control" required="">
-                        </div>
-                        <div class="form-group mt-2 col-lg-12">
-                            <label>Message</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1"
-                                placeholder="Enter Message here" rows="4" required=""></textarea>
-                        </div>
-                        <div class="form-group mt-2 col-lg-12">
-                            <label>Drop file here</label>
-                            <input type="file" name="" id="" placeholder="Enter Size" class="form-control" required="">
-                        </div>
-
-                        <a href="#" class="butn butn__new mt-3"><span>Submit <i class="fa fa-long-arrow-right"
-                                    aria-hidden="true"></i></span></a>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="cta2">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-8">
-                <h3>GET A FREE PDF PROOF BEFORE YOU BUY</h3>
-                <p>HIGH-QUALITY CUSTOM PATCHES, PINS, & COINS</p>
-            </div>
-            <div class="col-lg-4">
-            <a href="#" class="butn butn__new mt-3"><span>Contact Now <i class="fa fa-long-arrow-right"
-                                    aria-hidden="true"></i></span></a>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- SEARCHBAR section start -->
+<?php include 'inc/searchbar-sec.php'; ?>
+<!-- SEARCHBAR section end -->
 
 <!-- Footer Include Here -->
 <?php include 'inc/footer.php'; ?>
