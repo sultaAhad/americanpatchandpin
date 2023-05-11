@@ -7,6 +7,7 @@ section.patches-sec {
 	position: relative;
 	padding: 4% 0;
 }
+
 figure.patches-img {
 	display: flex;
 	flex-direction: column;
@@ -96,20 +97,98 @@ section.custom-embriodered h2 {
 }
 ul.determinig-size-list li {
 	display: flex;
-	align-items: baseline;
-	gap: 20px;
+	align-items: center;
+	gap: 10px;
 	margin-bottom: 10px;
+}
+section.custom-embriodered p {
+	margin-bottom: 50px;
 }
 ul.determinig-size-list li i {
 	border: 1px solid black;
 	border-radius: 50%;
-	padding: 4px;
-	font-size: 12px;
+	padding: 3px;
+	font-size: 8px;
 	background: #000;
 	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+ul.determinig-size-list li h6 {
+	margin: 0;
 }
 .determining-size-content h4 {
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 20px;
+}
+.table-wrapper table.table tr.table-header {
+	text-align: center;
+}
+.table-wrapper table.table td {
+	text-align: center;
+}
+.table-wrapper table.table {
+	margin: 0;
+}
+.table-wrapper table.table th.cell {
+	padding: 20px 15px !important;
+	background: #4a4893 !important;
+	font-size: 16px;
+	font-weight: 600;
+	font-family: "Montserrat", "sans-serif";
+	line-height: 1;
+	color: #fff;
+	border-color: #000;
+	border-width: 2px;
+	border-style: none;
+	background-clip: padding-box;
+}
+.table-wrapper table.table tbody tr td {
+	padding: 18px 10px 0px 10 !important;
+	font-size: 14px;
+	font-family: "Montserrat", "sans-serif";
+	line-height: 1;
+	border-width: 2px;
+	border-style: none;
+	background-clip: padding-box;
+}
+.table-wrapper table.table tr {
+	background: #eeeeee;
+}
+.table-wrapper table.table td.cell {
+	padding-bottom: 30px !important;
+}
+.table-wrapper {
+	margin-top: 60px;
+}
+section.custom-embriodered:before {
+	content: " ";
+	display: block;
+	background-attachment: fixed;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	opacity: 0.1;
+	padding: 6% 0 50px 0;
+	background-image: url(../img/lapel-pin/lapel1.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	z-index: -3;
+}
+
+section.custom-embriodered {
+	padding: 3% 0 50px 0;
+	position: relative;
+}
+.for-size p a {
+	color: #cc3366;
+}
+figure.lion-img-shadow-box.medels img {
+	height: 382px !important;
 }

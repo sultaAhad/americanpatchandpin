@@ -733,7 +733,7 @@ section.testimonials h2 {
 
 /* cta */
 section.cta {
-	background: #254571;
+	background: #265788;
 	padding: 30px 0;
 	color: #ffffff;
 }
@@ -918,7 +918,7 @@ ul.social_icons13 {
 .head h5::after {
 	width: 24%;
 	height: 3px;
-	background-color: #fff;
+	background-color: #bbadad;
 	content: "";
 	position: absolute;
 	left: 0;

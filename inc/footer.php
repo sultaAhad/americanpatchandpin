@@ -71,35 +71,35 @@
                         </h5>
                     </div>
                     <ul class="footer-menus">
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="500"><a href="contact-us.php"><img src="img/challenge-coin4.png"
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="800"><a href="contact-us.php"><img src="img/challenge-coin4.png"
                                     class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="600"><a href="privacy.php"><img src="img/challenge-coin5.png"
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="900"><a href="privacy.php"><img src="img/challenge-coin5.png"
                                     class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="700"><a href="business.php"><img src="img/challenge-coin6.png"
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="1000"><a href="business.php"><img src="img/challenge-coin6.png"
                                     class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>
                     </ul>
                     <ul class="footer-menus">
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="800"><a href="business.php"><img src="img/challenge-coin3.png"
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="1100"><a href="business.php"><img src="img/challenge-coin3.png"
                                     class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="900"><a href="straight-true-magzine.php"><img
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="1200"><a href="straight-true-magzine.php"><img
                                     src="img/challenge-coin7.png" class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500"
-                            data-aos-duration="1000"><a href="straight-true-magzine.php"><img
+                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
+                            data-aos-duration="1300"><a href="straight-true-magzine.php"><img
                                     src="img/challenge-coin8.png" class="img-fluis" alt=""></a>
                             <div class="elementor-gallery-item__overlay"></div>
                         </li>

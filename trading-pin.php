@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/variable.css">
 <link rel="stylesheet" href="css/embroidered-patches.css">
+<link rel="stylesheet" href="css/lapel-pin.css">
 
 <!-- App Include Here -->
 <?php include 'inc/app.php'; ?>
@@ -15,7 +16,7 @@
                     <div class="col-lg-7 p-0">
                         <div class="patches-content">
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine">Custom Embroidered Patches Lowest Price Guaranteed
+                                data-aos-easing="ease-in-sine">Trading Pins
                             </h1>
                             <div class="row">
                                 <div class="col-lg-6">
@@ -98,7 +99,7 @@
                     </div>
                     <div class="col-lg-5 align-items-center">
                         <figure class="patches-img">
-                            <img src="./img/patches1/patches.png" class="img-fluid" alt="">
+                            <img src="./img/trading-pin/pins.png" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -113,53 +114,52 @@
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
                         <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">EMBROIDERED CUSTOM PATCHES
+                            data-aos-easing="ease-in-sine">AFFORDABLE CUSTOM TRADING PINS
                         </h2>
+                        <p>Make every season one to remember! Start a new tradition for your team with custom trading
+                            pins. Fast delivery in 7 days or less.
+
+                        </p>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
                                 <div class="border-bottom" data-aos="fade-right" data-aos-duration="600"
                                     data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
                             </div>
                         </div>
-                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">Quality custom patches no matter what budget you’re working
-                            with. Perfect for:
-                        </p>
                         <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor"
                             data-aos-offset="300" data-aos-duration="800">
                             <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Sport Teams
+                                <h6>Baseball Teams
+
                                 </h6>
                             </li>
                             <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Businesses
+                                <h6>Perfect for Trade shows
                                 </h6>
                             </li>
                             <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Motorcycle Clubs
+                                <h6>Softball Teams
+
                                 </h6>
                             </li>
                             <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Events
+                                <h6>Employee Rewards
                                 </h6>
                             </li>
                             <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Camping
+                                <h6>Youth Leagues
+
                                 </h6>
                             </li>
                             <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300"
                                 data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Scouting
-                                </h6>
-                            </li>
-                            <li data-aos="fade-right" data-aos-duration="1400" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
-                                <h6>Martial Arts Teams
+                                <h6>Adult Leagues
+
                                 </h6>
                             </li>
                         </ul>
@@ -167,7 +167,7 @@
                             <div class="col-lg-12">
                                 <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500"
                                     data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM PATCH PRICING <i
+                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM TRADING PIN PRICING<i
                                                 class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                     <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
                         data-aos-duration="800">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
-                            <img src="./img/patches1/patches2.png" class="img-fluid" alt="">
+                            <img src="./img/trading-pin/sox-1.png" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -239,7 +239,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab8.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -254,7 +254,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab7.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -269,7 +269,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab6.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -284,7 +284,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab5.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -299,24 +299,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row mt-4">
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab4.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -331,52 +314,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab3.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -393,7 +331,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab2.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -408,7 +346,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.png"
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab1.png"
                                                 alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
@@ -419,49 +357,12 @@
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
                             </div>
                             <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
                             </div>
                             <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+                            </div>
+                            <div class="col">
                             </div>
                         </div>
                     </div>
@@ -474,72 +375,57 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>CUSTOM EMBROIDERED PATCH PRICES LIST UP TO 99% COVERAGE
+                <h2>TRADING PIN PRICES
                 </h2>
                 <div class="row">
                     <div class="col-lg-1 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Factory Direct Pricing | Free Proofs Before You Pay | Express Delivery Available At No Additional
-                    Cost
+                <p class="no-set-para">No Set Up Charges | Fast Delivery | Factory Direct Pricing
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <div class="determining-size-content">
-                    <h4>Determining Size
-                    </h4>
-                    <ul class="determinig-size-list">
-                        <li>
-                            <i class="fa fa-check" aria-hidden="true"></i>
-                            <h6>You can calculate the size of your patch by adding the Length + Width and then dividing
-                                it by 2.
-                            </h6>
-                        </li>
-                        <li>
-                            <i class="fa fa-check" aria-hidden="true"></i>
-                            <h6>Example: 4 x 5 " patch 4" + 5" = 9" divided by 2 = 4-1/2" size for pricing.
-                            </h6>
-                        </li>
-                    </ul>
-                </div>
                 <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
                     data-aos-duration="800">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">
                                 <tr class="table-header">
-                                    <th class="cell">SIZE </th>
-                                    <th class="cell">6 </th>
-                                    <th class="cell">12</th>
-                                    <th class="cell">25</th>
-                                    <th class="cell">50</th>
+                                    <th class="cell">SIZE</th>
                                     <th class="cell">100</th>
                                     <th class="cell">200</th>
                                     <th class="cell">300</th>
                                     <th class="cell">500</th>
+                                    <th class="cell">750</th>
                                     <th class="cell">1000</th>
                                     <th class="cell">2000</th>
                                     <th class="cell">3000</th>
-                                    <th class="cell">5000 & UP
+                                    <th class="cell">5000
                                     </th>
                                 </tr>
                                 <tr class="active">
-                                    <td>2"
+                                    <td>1.25"
+
                                     </td>
-                                    <td>$14.50
+                                    <td>$2.50
+
                                     </td>
-                                    <td>$8.95
+                                    <td>$2.12
+
                                     </td>
-                                    <td>$4.50
+                                    <td>$1.45
+
                                     </td>
-                                    <td>$2.49
+                                    <td>$1.01
+
                                     </td>
-                                    <td>$1.39
+                                    <td>$0.89
+
                                     </td>
-                                    <td>$0.85
+                                    <td>$0.79
 
                                     </td>
                                     <td>$0.75
@@ -548,225 +434,208 @@
                                     <td>$0.69
 
                                     </td>
-                                    <td>$0.55
-
-                                    </td>
-                                    <td>$0.49
-
-                                    </td>
-                                    <td>$0.45
-
-                                    </td>
-                                    <td>Call For A Quote
+                                    <td>$0.62
 
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>2.5"
-                                    </td>
-                                    <td>$14.95
-                                    </td>
-                                    <td>$9.95
-                                    </td>
-                                    <td>$4.95
-                                    </td>
-                                    <td>$2.69
-                                    </td>
-                                    <td>$1.49
-                                    </td>
-                                    <td>$0.95
-                                    </td>
-                                    <td>$0.79
+                                    <td>1.50"
 
                                     </td>
-                                    <td>$0.75
+                                    <td>$2.68
 
                                     </td>
-                                    <td>$0.59
+                                    <td>$2.29
 
                                     </td>
-                                    <td>$0.55
+                                    <td>$1.65
 
                                     </td>
-                                    <td>$0.49
-
-                                    </td>
-                                    <td>Call For A Quote
-
-                                    </td>
-                                </tr>
-                                <tr class="active">
-                                    <td>3"
-                                    </td>
-                                    <td>$15.50
-                                    </td>
-                                    <td>$10.95
-                                    </td>
-                                    <td>$5.50
-                                    </td>
-                                    <td>$2.95
-                                    </td>
-                                    <td>$1.59
-                                    </td>
-                                    <td>$1.05
-
-                                    </td>
-                                    <td>$0.95
-
-                                    </td>
-                                    <td>$0.79
-
-                                    </td>
-                                    <td>$0.69
-
-                                    </td>
-                                    <td>$0.59
-
-                                    </td>
-                                    <td>$0.55
-
-                                    </td>
-                                    <td>Call For A Quote
-
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>3.5"
-                                    </td>
-                                    <td>$15.95
-                                    </td>
-                                    <td>$11.95
-                                    </td>
-                                    <td>$5.95
-                                    </td>
-                                    <td>$3.25
-                                    </td>
-                                    <td>$1.89
-                                    </td>
-                                    <td>$1.25
+                                    <td>$1.22
 
                                     </td>
                                     <td>$1.15
 
                                     </td>
-                                    <td>$0.99
+                                    <td>$0.95
 
                                     </td>
-                                    <td>$0.75
+                                    <td>$0.93
 
                                     </td>
-                                    <td>$0.69
+                                    <td>$0.87
 
                                     </td>
-                                    <td>$0.65
-
-                                    </td>
-                                    <td>Call For A Quote
+                                    <td>$0.80
 
                                     </td>
                                 </tr>
                                 <tr class="active">
-                                    <td>4"
-                                    </td>
-                                    <td>$19.95
-                                    </td>
-                                    <td>$12.95
-                                    </td>
-                                    <td>$6.50
-                                    </td>
-                                    <td>$3.95
-                                    </td>
-                                    <td>$2.25
-                                    </td>
-                                    <td>$1.75
+                                    <td>1.75"
 
                                     </td>
-                                    <td>$1.35
+                                    <td>$2.83
 
                                     </td>
-                                    <td>$1.10
+                                    <td>$2.59
 
-                                    </td>
-                                    <td>$0.95
-
-                                    </td>
-                                    <td>$0.85
-
-                                    </td>
-                                    <td>$0.79
-
-                                    </td>
-                                    <td>Call For A Quote
-
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>4.5"
-                                    </td>
-                                    <td>$23.95
-                                    </td>
-                                    <td>$14.95
-                                    </td>
-                                    <td>$7.95
-                                    </td>
-                                    <td>$4.50
-                                    </td>
-                                    <td>$2.50
                                     </td>
                                     <td>$1.98
 
                                     </td>
-                                    <td>$1.79
-
-                                    </td>
                                     <td>$1.49
 
                                     </td>
-                                    <td>$1.15
+                                    <td>$1.45
+
+                                    </td>
+                                    <td>$1.21
 
                                     </td>
                                     <td>$1.10
+
+                                    </td>
+                                    <td>$1.05
 
                                     </td>
                                     <td>$0.98
 
                                     </td>
-                                    <td>Call For A Quote
+                                </tr>
+                                <tr>
+                                    <td>2"
+
+                                    </td>
+                                    <td>$3.20
+
+                                    </td>
+                                    <td>$2.70
+
+                                    </td>
+                                    <td>$2.25
+
+                                    </td>
+                                    <td>$1.75
+
+                                    </td>
+                                    <td>$1.65
+
+                                    </td>
+                                    <td>$1.39
+
+                                    </td>
+                                    <td>$1.35
+
+                                    </td>
+                                    <td>$1.29
+
+                                    </td>
+                                    <td>$1.19
 
                                     </td>
                                 </tr>
                                 <tr class="active">
-                                    <td class="cell">5"
-                                    </td>
-                                    <td class="cell">$25.95
-                                    </td>
-                                    <td class="cell">$16.95
-                                    </td>
-                                    <td class="cell">$8.95
-                                    </td>
-                                    <td class="cell">$5.50
-                                    </td>
-                                    <td class="cell">$3.15
-                                    </td>
-                                    <td class="cell">$2.49
+                                    <td>2.25"
 
                                     </td>
-                                    <td class="cell">$2.15
+                                    <td>$4.59
 
                                     </td>
-                                    <td class="cell">$1.59
+                                    <td>$3.45
 
                                     </td>
-                                    <td class="cell">$1.35
+                                    <td>$2.90
 
                                     </td>
-                                    <td class="cell">$1.25
+                                    <td>$2.25
 
                                     </td>
-                                    <td class="cell">$1.19
+                                    <td>$2.10
 
                                     </td>
-                                    <td class="cell">Call For A Quote
+                                    <td>$2.05
+
+                                    </td>
+                                    <td>$1.79
+
+                                    </td>
+                                    <td>$1.75
+
+                                    </td>
+                                    <td>$1.74
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>2.5"
+
+                                    </td>
+                                    <td>$5.20
+
+                                    </td>
+                                    <td>$3.80
+
+                                    </td>
+                                    <td>$3.49
+
+                                    </td>
+                                    <td>$2.90
+
+                                    </td>
+                                    <td>$2.70
+
+                                    </td>
+                                    <td>$2.65
+
+                                    </td>
+                                    <td>$2.41
+
+                                    </td>
+                                    <td>$2.39
+
+                                    </td>
+                                    <td>$2.35
+
+                                    </td>
+                                </tr>
+                                <tr class="active">
+                                    <td class="cell">3"
+
+                                    </td>
+                                    <td class="cell">$6.40
+
+
+                                    </td>
+                                    <td class="cell">$5.15
+
+
+                                    </td>
+                                    <td class="cell">$4.45
+
+
+                                    </td>
+                                    <td class="cell">$3.85
+
+
+                                    </td>
+                                    <td class="cell">$3.65
+
+
+                                    </td>
+                                    <td class="cell">$3.49
+
+
+                                    </td>
+                                    <td class="cell">$3.29
+
+
+                                    </td>
+                                    <td class="cell">$3.25
+
+
+                                    </td>
+                                    <td class="cell">$3.25
+
 
                                     </td>
                                 </tr>
@@ -775,44 +644,12 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12 text-center">
+                    <div class="col-lg-5 mx-auto mt-3
+                     text-center">
                         <div class="for-size">
-                            <p>For Sizes over 5″ & Quantities Over 5,000 <a href="">Request a Quote.</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="determining-size-content">
-                            <h4>Backing Options Available Are Listed Below.
-                            </h4>
-                            <ul class="determinig-size-list">
-                                <li>
-                                    <h6>Iron-on Backing: 10¢
-                                    </h6>
-                                </li>
-                                <li>
-                                    <h6>Adhesive Backing: 20¢
-                                    </h6>
-                                </li>
-                                <li>
-                                    <h6>Hook Backing: 35¢
-                                    </h6>
-                                </li>
-                                <li>
-                                    <h6>Hook-and-loop Backing: 65¢
-                                    </h6>
-                                </li>
-                                <li>
-                                    <h6>Additional Colors: 15¢ per color
-                                    </h6>
-                                </li>
-                                <li>
-                                    <h6>Metallic Thread: Starts at 30% depending on the coverage.
-                                    </h6>
-                                </li>
-                            </ul>
+                            <!-- <p>NO MOLD CHARGE REGARDLESS OF THE PIN COUNT
+                                Hard Enamel Pins Add $0.25 Per Pin</a>
+                            </p> -->
                         </div>
                     </div>
                 </div>

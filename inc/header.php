@@ -87,29 +87,29 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Lapel Pins</a>
+                                <a class="nav-link" href="lapel-pin.php">Lapel Pins</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Trading Pins</a>
+                                <a class="nav-link" href="trading-pin.php">Trading Pins</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Challenge Coins</a>
+                                <a class="nav-link" href="challenge-coin.php">Challenge Coins</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Medals</a>
+                                <a class="nav-link" href="medals.php">Medals</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Pricing</a>
+                                <a class="nav-link" href="pricing.php">Pricing</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Galleries</a>
+                                <a class="nav-link" href="Galleries.php">Galleries</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">FAQ</a>
+                                <a class="nav-link" href="faqs.php">FAQ</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">FREE QUOTE </a>
+                                <a class="nav-link" href="free-quote.php">FREE QUOTE </a>
                             </li>
                         </ul>
                     </div>

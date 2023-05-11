@@ -1,0 +1,26 @@
+.image-box-wrapper {
+	display: flex;
+	align-items: center;
+}
+.image-box-wrapper h5 a h4 {
+	color: #ffffff;
+	font-size: 22px;
+	font-weight: 700;
+	margin-top: 10px;
+}
+.image-box-wrapper h5 {
+	margin: 0 !important;
+}
+.image-box-wrapper i.fa.fa-phone {
+	font-size: 28px;
+	color: #fff;
+}
+section.main-tabs.galleries {
+	background: #00000026;
+}
+h3.factory {
+	color: #265788;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
