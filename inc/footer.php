@@ -55,8 +55,7 @@
                             <div class="newsletter_wrapper">
                                 <form class="d-flex news-wrapper" role="search">
                                     <input class="form-control me-2" aria-label="Search" placeholder="Enter Your Email">
-                                    <button class="btn btn-outline-success" type="submit"><i class="fa fa-paper-plane"
-                                            aria-hidden="true"></i>
+                                    <button class="btn btn-outline-success" type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>
                                     </button>
                                 </form>
                             </div>
@@ -71,37 +70,37 @@
                         </h5>
                     </div>
                     <ul class="footer-menus">
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="800"><a href="contact-us.php"><img src="img/challenge-coin4.png"
-                                    class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="#">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="800"><img src="img/challenge-coin4.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="900"><a href="privacy.php"><img src="img/challenge-coin5.png"
-                                    class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="#">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="900"><img src="img/challenge-coin5.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="1000"><a href="business.php"><img src="img/challenge-coin6.png"
-                                    class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="business.php">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1000"><img src="img/challenge-coin6.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
                     </ul>
                     <ul class="footer-menus">
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="1100"><a href="business.php"><img src="img/challenge-coin3.png"
-                                    class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="business.php">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1100"><img src="img/challenge-coin3.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="1200"><a href="straight-true-magzine.php"><img
-                                    src="img/challenge-coin7.png" class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="straight-true-magzine.php">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1200"><img src="img/challenge-coin7.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
-                        <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                            data-aos-duration="1300"><a href="straight-true-magzine.php"><img
-                                    src="img/challenge-coin8.png" class="img-fluis" alt=""></a>
-                            <div class="elementor-gallery-item__overlay"></div>
+                        <a href="straight-true-magzine.php">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1300"><img src="img/challenge-coin8.png" class="img-fluis" alt="">
+                                <div class="elementor-gallery-item__overlay"></div>
+                        </a>
                         </li>
                     </ul>
                 </div>

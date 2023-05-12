@@ -6,7 +6,6 @@ body {
 
 p {
 	font-size: 16px;
-	font-family: "MYRIADPRO-REGULAR";
 }
 ul {
 	padding: 0;
@@ -17,15 +16,15 @@ a {
 }
 h1 {
 	font-size: 50px;
-	font-family: var(--font-MarcellusSC-Regular);
+	font-family: "roboto";
 }
 
 h2 {
 	font-size: 50px;
-	font-family: "OrpheusPro-Bold" !important;
+	font-family: "roboto";
 }
 h3 {
-	font-family: "OrpheusPro-Bold" !important;
+	font-family: "roboto";
 }
 html {
 	overflow-x: hidden;
@@ -247,7 +246,7 @@ section.showbg-wrap {
 }
 .main-heading-wrapper h1 {
 	color: #ffffff;
-	font-weight: 700;
+	font-weight: 600;
 	font-size: 2.5rem;
 	margin-bottom: 20px;
 }
@@ -303,7 +302,7 @@ section.customize-your-need .para-we-care {
 	color: #265788;
 	font-size: 33px;
 	text-transform: uppercase;
-	font-weight: 600;
+	font-weight: 500;
 }
 section.customize-your-need {
 	padding: 23% 0 40px 0;
@@ -322,7 +321,8 @@ section.who-worked-with h2 {
 	color: #ffffff;
 	font-size: 30px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 500;
+	font-family: "roboto" !important;
 }
 section.who-worked-with p {
 	color: #fff;
@@ -356,7 +356,7 @@ section.main-tabs .border-bottom {
 }
 section.main-tabs p {
 	margin-top: 20px;
-	font-size: 19px;
+	font-size: 16px;
 	font-weight: 400;
 }
 section.main-tabs .nav-pills .nav-link.active {
@@ -464,7 +464,7 @@ section.main-tabs .nav-pills .nav-link {
 }
 section.main-tabs {
 	background: #f4f4f4c4;
-	padding: 5% 0 70px 0;
+	padding: 60px 0 70px 0;
 }
 .main-tab-wrapper-image {
 	display: flex;
@@ -473,19 +473,37 @@ section.main-tabs {
 }
 .fast-free-main {
 	text-align: center;
-	border: 1px solid #fff;
+	border: 1px solid #cacacac9;
 	padding: 20px;
 	height: 260px;
 }
 .fast-free-main h4 {
 	color: #fff;
 	padding: 31px 0;
-	font-size: 20px;
+	font-size: 19px;
+	line-height: 1.5;
 }
 .fast-free-main img {
 	width: 100%;
 	height: 100px;
 	object-fit: scale-down;
+	transform: translatey(0px);
+	transition: all 0.4s ease-in-out;
+}
+@keyframes play {
+	0% {
+		transform: translatey(0px);
+		transition-duration: 1s;
+	}
+	100% {
+		transform: translatey(-15px);
+		transition-duration: 1s;
+	}
+}
+.fast-free-main img:hover {
+	-webkit-animation: notexistent;
+	animation: notexistent;
+	animation: play 1s infinite alternate ease-in-out;
 }
 section.main-tabs.our-forbidden-custom h4 {
 	margin-bottom: 20px;
@@ -800,6 +818,7 @@ section.cta2 a.butn.butn__new.mt-3 {
 	background: #265788;
 	height: 49px;
 }
+
 /* footer start */
 .elementor-gallery-item__overlay {
 	mix-blend-mode: var(--overlay-mix-blend-mode);
@@ -808,11 +827,12 @@ section.cta2 a.butn.butn__new.mt-3 {
 }
 
 .elementor-gallery-item__overlay {
-	height: 100%;
-	width: 100%;
+	height: 83%;
+	width: 88%;
 	position: absolute;
-	top: 0;
-	left: 0;
+	top: 6px;
+	left: 7px;
+	border-radius: 57%;
 }
 ul.footer-menus li:hover .elementor-gallery-item__overlay {
 	background-color: rgba(0, 0, 0, 0.5);
@@ -998,3 +1018,26 @@ p.greenwood {
 	border-radius: 0;
 }
 /* footer end */
+@media (max-width: 1367px) {
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 12px;
+	}
+	nav ul li a.active {
+		/* border-bottom: 2px solid #c29e6c; */
+		font-size: 12px;
+	}
+	.main-heading-wrapper h1 {
+		font-size: 2.2rem;
+	}
+	.card a {
+		font-size: 13px;
+		font-weight: 700;
+	}
+	.row.card-wrapper p {
+		font-size: 13px;
+		height: 0px;
+	}
+	.card a {
+		height: 50px;
+	}
+}
