@@ -17,7 +17,14 @@
 
 
 <script>
-    AOS.init();
+    $(document).ready(function() {
+        AOS.init();
+    });
+
+    //refresh animations
+    $(window).on('load', function() {
+        AOS.refresh();
+    });
 </script>
 <script>
     // Fancybox Config

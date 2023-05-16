@@ -177,14 +177,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
                 <div class="row">
                     <div class="col-lg-2 mx-auto">
-                        <div class="border-bottom" class="border-bottom" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate"></div>
+                        <div class="border-bottom" class="border-bottom" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate"></div>
                     </div>
                 </div>
-                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -1818,20 +1818,20 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>INCREDIBLE VALUE WITH NO HIDDEN FEES
+                <h2 data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">INCREDIBLE VALUE WITH NO HIDDEN FEES
                 </h2>
                 <div class="row">
-                    <div class="col-lg-2 mx-auto">
+                    <div class="col-lg-2 mx-auto" data-aos="zoom-in" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>American Patch & Pin is committed providing top quality pins and patches. We’ve been in business
+                <p data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">American Patch & Pin is committed providing top quality pins and patches. We’ve been in business
                     since 1976, so we’ve been creating and designing custom patches that are affordable for over 4
                     decades.
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
             <div class="col-lg-10 mx-auto">
                 <div class="row mt-4">
                     <div class="col-lg-3 p-0">
