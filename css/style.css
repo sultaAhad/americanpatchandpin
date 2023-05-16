@@ -350,6 +350,7 @@ section.main-tabs h2 {
 	color: #b2081c;
 	font-size: 30px;
 	text-transform: uppercase;
+	padding-top: 60px;
 }
 section.main-tabs .border-bottom {
 	border: 1px solid #b2081c;
@@ -464,7 +465,7 @@ section.main-tabs .nav-pills .nav-link {
 }
 section.main-tabs {
 	background: #f4f4f4c4;
-	padding: 60px 0 70px 0;
+	padding: 0px 0 70px 0;
 }
 .main-tab-wrapper-image {
 	display: flex;

@@ -177,14 +177,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
                 <div class="row">
                     <div class="col-lg-2 mx-auto">
-                        <div class="border-bottom"></div>
+                        <div class="border-bottom" class="border-bottom" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate"></div>
                     </div>
                 </div>
-                <p>Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
