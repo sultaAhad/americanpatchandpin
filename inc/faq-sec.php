@@ -17,7 +17,8 @@
                 </div>
             </div>
 
-            <div class="accordion mt-3" id="accordionExample">
+            <div class="accordion mt-3" id="accordionExample" data-aos="fade-right" data-aos-duration="500"
+                data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
