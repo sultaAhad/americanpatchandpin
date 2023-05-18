@@ -15,27 +15,20 @@
                 <div class="row">
                     <div class="col-lg-7 p-0">
                         <div class="patches-content">
-                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine">Trading Pins
+                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Trading Pins
                             </h1>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Incredibly Low Pricing
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Reproduction of New or Existing Designs For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Our Professional Graphic Designers Will Help You Every Step of the Way
                                             </h5>
                                         </li>
@@ -43,21 +36,15 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> 7-Day Rush Delivery Service Available
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
-                                            <h5>Millions of Patches Sold Annually
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                            <h5>Millions of Trading Pins Annually
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Official Patch and Pin Suppliers For Disney, Lucas Films, Marvel, and
                                                 DC Comics.
                                             </h5>
@@ -67,8 +54,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>HIGHEST QUALITY GUARANTEED
                                         </h5>
@@ -76,8 +62,7 @@
 
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>
                                             LOWEST PRICE
@@ -88,10 +73,8 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i
-                                                    class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -113,8 +96,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
-                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">AFFORDABLE CUSTOM TRADING PINS
+                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">AFFORDABLE CUSTOM TRADING PINS
                         </h2>
                         <p>Make every season one to remember! Start a new tradition for your team with custom trading
                             pins. Fast delivery in 7 days or less.
@@ -122,42 +104,34 @@
                         </p>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
-                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
+                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
                             </div>
                         </div>
-                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor"
-                            data-aos-offset="300" data-aos-duration="800">
-                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Baseball Teams
 
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Perfect for Trade shows
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Softball Teams
 
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Employee Rewards
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Youth Leagues
 
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Adult Leagues
 
                                 </h6>
@@ -165,16 +139,13 @@
                         </ul>
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM TRADING PIN PRICING<i
-                                                class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM TRADING PIN PRICING<i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                        data-aos-duration="800">
+                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/trading-pin/sox-1.png" class="img-fluid" alt="">
                         </figure>
@@ -239,8 +210,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab8.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab8.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -254,8 +224,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab7.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab7.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -269,8 +238,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab6.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab6.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -284,8 +252,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab5.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab5.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -299,8 +266,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab4.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab4.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -314,8 +280,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab3.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab3.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -331,8 +296,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab2.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab2.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -346,8 +310,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab1.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image-second/tab1.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -388,8 +351,7 @@
         </div>
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                    data-aos-duration="800">
+                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">

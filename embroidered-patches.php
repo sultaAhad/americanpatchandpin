@@ -14,11 +14,9 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="patches-content">
-                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100"
-                                data-aos-easing="ease-in-sine">Custom Embroidered Patches Lowest Price Guaranteed
+                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Custom Embroidered Patches Lowest Price Guaranteed
                             </h1>
-                            <div class="row" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100"
-                                data-aos-easing="ease-in-sine">>
+                            <div class="row" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">>
                                 <div class="col-lg-12">
                                     <figure class="patches-img">
                                         <img src="./img/patches1/patches.png" class="img-fluid" alt="">
@@ -28,21 +26,15 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Incredibly Low Pricing
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Reproduction of New or Existing Designs For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Our Professional Graphic Designers Will Help You Every Step of the Way
                                             </h5>
                                         </li>
@@ -50,21 +42,15 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> 7-Day Rush Delivery Service Available
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Millions of Patches Sold Annually
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Official Patch and Pin Suppliers For Disney, Lucas Films, Marvel, and
                                                 DC Comics.
                                             </h5>
@@ -74,8 +60,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>HIGHEST QUALITY GUARANTEED
                                         </h5>
@@ -83,8 +68,7 @@
 
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>
                                             LOWEST PRICE
@@ -95,10 +79,8 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i
-                                                    class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -114,38 +96,33 @@
                                         <div class="row">
                                             <div class="col-lg-12">
                                                 <div class="form-control1">
-                                                    <input type="name" name="" id="" placeholder="Name"
-                                                        class="form-control" required="">
+                                                    <input type="name" name="" id="" placeholder="Name" class="form-control" required="">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-12">
                                                 <div class="form-control1">
-                                                    <input type="email" name="" id="" placeholder="Email (Required)"
-                                                        class="form-control" required="">
+                                                    <input type="email" name="" id="" placeholder="Email (Required)" class="form-control" required="">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-6">
                                                 <div class="form-control1">
-                                                    <input type="phone" name="" id="" placeholder="Phone"
-                                                        class="form-control" required="">
+                                                    <input type="phone" name="" id="" placeholder="Phone" class="form-control" required="">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="form-control1">
-                                                    <input type="text" name="" id="" placeholder="Size"
-                                                        class="form-control" required="">
+                                                    <input type="text" name="" id="" placeholder="Size" class="form-control" required="">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-6">
                                                 <div class="form-control1">
-                                                    <input type="phone" name="" id="" placeholder="Quantity"
-                                                        class="form-control" required="">
+                                                    <input type="phone" name="" id="" placeholder="Quantity" class="form-control" required="">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6">
@@ -166,24 +143,18 @@
                                                         </span>
                                                         <h3 class="dynamic-message"> Drop files here or
                                                         </h3>
-                                                        <label class="label"> <span class="browse-files"> <input
-                                                                    type="file" class="default-file-input" /> <span
-                                                                    class="browse-files-text">Select</span>
+                                                        <label class="label"> <span class="browse-files"> <input type="file" class="default-file-input" /> <span class="browse-files-text">Select</span>
                                                                 <span></span> </span> </label>
                                                     </div>
-                                                    <span class="cannot-upload-message"> <span
-                                                            class="material-icons-outlined">error</span> Please select a
-                                                        file first <span
-                                                            class="material-icons-outlined cancel-alert-button">cancel</span>
+                                                    <span class="cannot-upload-message"> <span class="material-icons-outlined">error</span> Please select a
+                                                        file first <span class="material-icons-outlined cancel-alert-button">cancel</span>
                                                     </span>
                                                     <div class="file-block">
-                                                        <div class="file-info"> <span
-                                                                class="material-icons-outlined file-icon">description</span>
+                                                        <div class="file-info"> <span class="material-icons-outlined file-icon">description</span>
                                                             <span class="file-name"> </span> | <span class="file-size">
                                                             </span>
                                                         </div>
-                                                        <span class="material-icons remove-file-icon"><i
-                                                                class="fa fa-trash-o" aria-hidden="true"></i>
+                                                        <span class="material-icons remove-file-icon"><i class="fa fa-trash-o" aria-hidden="true"></i>
                                                         </span>
                                                         <div class="progress-bar"> </div>
                                                     </div>
@@ -208,69 +179,55 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
-                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">EMBROIDERED CUSTOM PATCHES
+                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">EMBROIDERED CUSTOM PATCHES
                         </h2>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
-                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
+                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
                             </div>
                         </div>
-                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">Quality custom patches no matter what budget you’re working
+                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">Quality custom patches no matter what budget you’re working
                             with. Perfect for:
                         </p>
-                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor"
-                            data-aos-offset="300" data-aos-duration="800">
-                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Sport Teams
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Businesses
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Motorcycle Clubs
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Events
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Camping
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Scouting
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1400" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Martial Arts Teams
                                 </h6>
                             </li>
                         </ul>
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM PATCH PRICING <i
-                                                class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM PATCH PRICING <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                        data-aos-duration="800">
+                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/patches1/patches2.png" class="img-fluid" alt="">
                         </figure>
@@ -335,8 +292,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -350,8 +306,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -365,8 +320,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -380,8 +334,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -395,85 +348,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row mt-4">
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -489,8 +364,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -504,8 +378,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -519,8 +392,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -534,8 +406,7 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -549,8 +420,79 @@
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -601,8 +543,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                    data-aos-duration="800">
+                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">
@@ -930,118 +871,118 @@
 <?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->
 <script>
-var isAdvancedUpload = function() {
-    var div = document.createElement('div');
-    return (('draggable' in div) || ('ondragstart' in div && 'ondrop' in div)) && 'FormData' in window &&
-        'FileReader' in window;
-}();
+    var isAdvancedUpload = function() {
+        var div = document.createElement('div');
+        return (('draggable' in div) || ('ondragstart' in div && 'ondrop' in div)) && 'FormData' in window &&
+            'FileReader' in window;
+    }();
 
-let draggableFileArea = document.querySelector(".drag-file-area");
-let browseFileText = document.querySelector(".browse-files");
-let uploadIcon = document.querySelector(".upload-icon");
-let dragDropText = document.querySelector(".dynamic-message");
-let fileInput = document.querySelector(".default-file-input");
-let cannotUploadMessage = document.querySelector(".cannot-upload-message");
-let cancelAlertButton = document.querySelector(".cancel-alert-button");
-let uploadedFile = document.querySelector(".file-block");
-let fileName = document.querySelector(".file-name");
-let fileSize = document.querySelector(".file-size");
-let progressBar = document.querySelector(".progress-bar");
-let removeFileButton = document.querySelector(".remove-file-icon");
-let uploadButton = document.querySelector(".upload-button");
-let fileFlag = 0;
+    let draggableFileArea = document.querySelector(".drag-file-area");
+    let browseFileText = document.querySelector(".browse-files");
+    let uploadIcon = document.querySelector(".upload-icon");
+    let dragDropText = document.querySelector(".dynamic-message");
+    let fileInput = document.querySelector(".default-file-input");
+    let cannotUploadMessage = document.querySelector(".cannot-upload-message");
+    let cancelAlertButton = document.querySelector(".cancel-alert-button");
+    let uploadedFile = document.querySelector(".file-block");
+    let fileName = document.querySelector(".file-name");
+    let fileSize = document.querySelector(".file-size");
+    let progressBar = document.querySelector(".progress-bar");
+    let removeFileButton = document.querySelector(".remove-file-icon");
+    let uploadButton = document.querySelector(".upload-button");
+    let fileFlag = 0;
 
-fileInput.addEventListener("click", () => {
-    fileInput.value = '';
-    console.log(fileInput.value);
-});
-
-fileInput.addEventListener("change", e => {
-    console.log(" > " + fileInput.value)
-    uploadIcon.innerHTML = '';
-    dragDropText.innerHTML = 'File Dropped Successfully!';
-    document.querySelector(".label").innerHTML =
-        `drag & drop or <span class="browse-files"> <input type="file" class="default-file-input" style=""/> <span class="browse-files-text" style="top: 0;"> browse file</span></span>`;
-    uploadButton.innerHTML = `Click Here For A Free
-                                                        Quato & PDF Proof`;
-    fileName.innerHTML = fileInput.files[0].name;
-    fileSize.innerHTML = (fileInput.files[0].size / 1024).toFixed(1) + " KB";
-    uploadedFile.style.cssText = "display: flex;";
-    progressBar.style.width = 0;
-    fileFlag = 0;
-});
-
-uploadButton.addEventListener("click", () => {
-    let isFileUploaded = fileInput.value;
-    if (isFileUploaded != '') {
-        if (fileFlag == 0) {
-            fileFlag = 1;
-            var width = 0;
-            var id = setInterval(frame, 50);
-
-            function frame() {
-                if (width >= 390) {
-                    clearInterval(id);
-                    uploadButton.innerHTML =
-                        `<span class="material-icons-outlined upload-button-icon">  </span> Uploaded`;
-                } else {
-                    width += 5;
-                    progressBar.style.width = width + "px";
-                }
-            }
-        }
-    } else {
-        cannotUploadMessage.style.cssText = "display: flex; animation: fadeIn linear 1.5s;";
-    }
-});
-
-cancelAlertButton.addEventListener("click", () => {
-    cannotUploadMessage.style.cssText = "display: none;";
-});
-
-if (isAdvancedUpload) {
-    ["drag", "dragstart", "dragend", "dragover", "dragenter", "dragleave", "drop"].forEach(evt =>
-        draggableFileArea.addEventListener(evt, e => {
-            e.preventDefault();
-            e.stopPropagation();
-        })
-    );
-
-    ["dragover", "dragenter"].forEach(evt => {
-        draggableFileArea.addEventListener(evt, e => {
-            e.preventDefault();
-            e.stopPropagation();
-            uploadIcon.innerHTML = 'file_download';
-            dragDropText.innerHTML = 'Drop your file here!';
-        });
+    fileInput.addEventListener("click", () => {
+        fileInput.value = '';
+        console.log(fileInput.value);
     });
 
-    draggableFileArea.addEventListener("drop", e => {
-        uploadIcon.innerHTML = 'check_circle';
+    fileInput.addEventListener("change", e => {
+        console.log(" > " + fileInput.value)
+        uploadIcon.innerHTML = '';
         dragDropText.innerHTML = 'File Dropped Successfully!';
         document.querySelector(".label").innerHTML =
-            `drag & drop or <span class="browse-files"> <input type="file" class="default-file-input" style=""/> <span class="browse-files-text" style="top: -23px; left: -20px;"> browse file</span> </span>`;
-        uploadButton.innerHTML = `Upload`;
-
-        let files = e.dataTransfer.files;
-        fileInput.files = files;
-        console.log(files[0].name + " " + files[0].size);
-        console.log(document.querySelector(".default-file-input").value);
-        fileName.innerHTML = files[0].name;
-        fileSize.innerHTML = (files[0].size / 1024).toFixed(1) + " KB";
+            `drag & drop or <span class="browse-files"> <input type="file" class="default-file-input" style=""/> <span class="browse-files-text" style="top: 0;"> browse file</span></span>`;
+        uploadButton.innerHTML = `Click Here For A Free
+                                                        Quato & PDF Proof`;
+        fileName.innerHTML = fileInput.files[0].name;
+        fileSize.innerHTML = (fileInput.files[0].size / 1024).toFixed(1) + " KB";
         uploadedFile.style.cssText = "display: flex;";
         progressBar.style.width = 0;
         fileFlag = 0;
     });
-}
 
-removeFileButton.addEventListener("click", () => {
-    uploadedFile.style.cssText = "display: none;";
-    fileInput.value = '';
-    uploadIcon.innerHTML = 'file_upload';
-    dragDropText.innerHTML = 'Drag & drop any file here';
-    document.querySelector(".label").innerHTML =
-        `or <span class="browse-files"> <input type="file" class="default-file-input"/> <span class="browse-files-text">browse file</span> <span>from device</span> </span>`;
-    uploadButton.innerHTML = `Upload`;
-});
+    uploadButton.addEventListener("click", () => {
+        let isFileUploaded = fileInput.value;
+        if (isFileUploaded != '') {
+            if (fileFlag == 0) {
+                fileFlag = 1;
+                var width = 0;
+                var id = setInterval(frame, 50);
+
+                function frame() {
+                    if (width >= 390) {
+                        clearInterval(id);
+                        uploadButton.innerHTML =
+                            `<span class="material-icons-outlined upload-button-icon">  </span> Uploaded`;
+                    } else {
+                        width += 5;
+                        progressBar.style.width = width + "px";
+                    }
+                }
+            }
+        } else {
+            cannotUploadMessage.style.cssText = "display: flex; animation: fadeIn linear 1.5s;";
+        }
+    });
+
+    cancelAlertButton.addEventListener("click", () => {
+        cannotUploadMessage.style.cssText = "display: none;";
+    });
+
+    if (isAdvancedUpload) {
+        ["drag", "dragstart", "dragend", "dragover", "dragenter", "dragleave", "drop"].forEach(evt =>
+            draggableFileArea.addEventListener(evt, e => {
+                e.preventDefault();
+                e.stopPropagation();
+            })
+        );
+
+        ["dragover", "dragenter"].forEach(evt => {
+            draggableFileArea.addEventListener(evt, e => {
+                e.preventDefault();
+                e.stopPropagation();
+                uploadIcon.innerHTML = 'file_download';
+                dragDropText.innerHTML = 'Drop your file here!';
+            });
+        });
+
+        draggableFileArea.addEventListener("drop", e => {
+            uploadIcon.innerHTML = 'check_circle';
+            dragDropText.innerHTML = 'File Dropped Successfully!';
+            document.querySelector(".label").innerHTML =
+                `drag & drop or <span class="browse-files"> <input type="file" class="default-file-input" style=""/> <span class="browse-files-text" style="top: -23px; left: -20px;"> browse file</span> </span>`;
+            uploadButton.innerHTML = `Upload`;
+
+            let files = e.dataTransfer.files;
+            fileInput.files = files;
+            console.log(files[0].name + " " + files[0].size);
+            console.log(document.querySelector(".default-file-input").value);
+            fileName.innerHTML = files[0].name;
+            fileSize.innerHTML = (files[0].size / 1024).toFixed(1) + " KB";
+            uploadedFile.style.cssText = "display: flex;";
+            progressBar.style.width = 0;
+            fileFlag = 0;
+        });
+    }
+
+    removeFileButton.addEventListener("click", () => {
+        uploadedFile.style.cssText = "display: none;";
+        fileInput.value = '';
+        uploadIcon.innerHTML = 'file_upload';
+        dragDropText.innerHTML = 'Drag & drop any file here';
+        document.querySelector(".label").innerHTML =
+            `or <span class="browse-files"> <input type="file" class="default-file-input"/> <span class="browse-files-text">browse file</span> <span>from device</span> </span>`;
+        uploadButton.innerHTML = `Upload`;
+    });
 </script>

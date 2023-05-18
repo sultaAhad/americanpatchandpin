@@ -1,4 +1,4 @@
-<header class="header-top">
+<header id="scrolltopwrapper" class="header-top">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

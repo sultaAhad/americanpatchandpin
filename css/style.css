@@ -134,7 +134,11 @@ ul.header-sticky-social li a img {
 	object-fit: scale-down;
 }
 header.header-top {
-	background: #265788;
+	background: radial-gradient(
+		circle at 24.1% 68.8%,
+		rgb(0, 0, 0) 0%,
+		rgb(50, 50, 50) 99.4%
+	) !important;
 }
 ul.header-sticky-social li a i.fa.fa-facebook {
 	background: #fff;
@@ -376,9 +380,14 @@ nav ul li ul li a {
 
 /* section start */
 section.showbg-wrap {
-	background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important;
+	/* background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important; */
 	position: relative;
 	padding: 10% 0 60px 0;
+	background: radial-gradient(
+		circle at 24.1% 68.8%,
+		rgb(0, 0, 0) 0%,
+		rgb(50, 50, 50) 99.4%
+	) !important;
 }
 .main-heading-wrapper h2 {
 	color: #b2081c;
@@ -1176,7 +1185,7 @@ section.main-tabs.our-forbidden-custom h2 {
 	display: block;
 	width: 22px;
 	height: 22px;
-	border-radius: 50%;
+	border-radius: 20%;
 	/* background: #cca92c; */
 	cursor: pointer;
 	box-shadow: 0 0 0 #f75414(204, 169, 44, 0.4);
@@ -1184,20 +1193,45 @@ section.main-tabs.our-forbidden-custom h2 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	animation: animate1 2s linear infinite;
+	transform: scale(0.8);
 }
+@keyframes animate1 {
+	0% {
+		box-shadow: 0 0 0 0 rgba(255, 109, 74, 0.7), 0 0 0 0 rgba(255, 109, 74, 0.7);
+		/*     filter: hue-rotate(0deg); */
+	}
+	40% {
+		box-shadow: 0 0 0 2rem rgba(255, 109, 74, 0),
+			0 0 0 0 rgba(255, 109, 74, 0.7);
+	}
+	80% {
+		box-shadow: 0 0 0 2rem rgba(255, 109, 74, 0),
+			0 0 0 1rem rgba(255, 109, 74, 0);
+	}
+	100% {
+		box-shadow: 0 0 0 0 rgba(255, 109, 74, 0), 0 0 0 1rem rgba(255, 109, 74, 0);
+		/*     filter: hue-rotate(360deg); */
+	}
+}
+
 .scrollTop {
 	position: fixed;
 	right: 10%;
-	bottom: 10px;
-	background-color: #f75414;
-	padding: 20px;
+	bottom: 103px;
+	/* background-color: #f75414; */
+	padding: 30px;
 	opacity: 0;
 	transition: all 0.4s ease-in-out 0s;
 	z-index: 1111;
+	background-color: #cb1429;
 }
 .scrollTop a {
 	font-size: 18px;
 	color: #fff;
+}
+.scrollTop span a i {
+	font-size: 30px;
 }
 @media (max-width: 1367px) {
 	.navbar-light .navbar-nav .nav-link {

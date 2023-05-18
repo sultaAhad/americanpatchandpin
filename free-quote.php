@@ -15,40 +15,29 @@
                 <div class="row">
                     <div class="col-lg-7 p-0">
                         <div class="patches-content">
-                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine">Free Custom Quote
+                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Free Custom Quote
 
                             </h1>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Fast 7 To 12 Day Delivery
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Discounts To All Non-Profits
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Custom Made For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Free Proof Before You Pay
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>100% Money Back Guarantee
                                             </h5>
                                         </li>
@@ -57,8 +46,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         <h5>Have Questions? Call Now and Get a Free Quote <br> <a href="">
                                                 <h4>1-888-281-4114
@@ -106,13 +94,11 @@
 
                         <div class="form-group mt-2 col-lg-6">
                             <label>Email</label>
-                            <input type="email" name="" id="" placeholder="Enter Email" class="form-control"
-                                required="">
+                            <input type="email" name="" id="" placeholder="Enter Email" class="form-control" required="">
                         </div>
                         <div class="form-group mt-2 col-lg-6">
                             <label>Phone</label>
-                            <input type="email" name="" id="" placeholder="Enter Phone" class="form-control"
-                                required="">
+                            <input type="email" name="" id="" placeholder="Enter Phone" class="form-control" required="">
                         </div>
                         <div class="form-group mt-2 col-lg-6">
                             <label>Quantity</label>
@@ -142,8 +128,7 @@
                         </div>
                         <div class="form-group mt-2 col-lg-12">
                             <label>Message</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1"
-                                placeholder="Enter Message here" rows="4" required=""></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Enter Message here" rows="4" required=""></textarea>
                         </div>
                         <div class="form-group mt-2 col-lg-12">
                             <label>Drop file here</label>
@@ -151,7 +136,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-4">
-                                <a href="#" class="butn butn__new mt-3"><span>free custom quote</span></a>
+                                <a href="get-free-Quote-form.php" class="butn butn__new mt-3"><span>free custom quote</span></a>
                             </div>
                         </div>
                 </form>

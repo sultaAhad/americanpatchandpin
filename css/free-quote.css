@@ -24,3 +24,13 @@ h3.factory {
 	text-transform: uppercase;
 	margin-bottom: 20px;
 }
+section.main-tabs h2 {
+	color: #b2081c;
+	font-size: 30px;
+	text-transform: uppercase;
+	padding-top: 0px !important;
+}
+section.main-tabs.galleries {
+	background: #00000026;
+	padding-top: 50px !important;
+}
