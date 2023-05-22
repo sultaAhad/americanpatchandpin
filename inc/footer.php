@@ -1,48 +1,79 @@
 <!-- Footer Start Here -->
 <footer class="text-white">
     <div class="container">
-        <div class="row center-wrapper">
-            <div class="col-lg-3  col-md-12 col-12 ">
-                <div class="footer_content frst">
-                    <div class="logoDv">
-                        <figure><img src="img/app-logo.png" class="img-fluid"></figure>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-12">
-                <div class="footer_content">
-                    <div class="head">
-                        <h5>Official info
-                        </h5>
-                    </div>
-                    <div class="email">
-                        <div class="main-email">
-                            <ul>
-                                <li>
-                                    <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <a href="">
-                                        <h6> 1-888-281-4114</h6>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class="fa fa-envelope-open" aria-hidden="true"></i>
-                                    <a href="">
-                                        <h6> sales@americanpatch.cyber-demo-client-website1.com</h6>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                    <a href="">
-                                        <h6> 1503 Bell AVE. Altoona, PA 16602
-                                        </h6>
-                                    </a>
-                                </li>
-                            </ul>
+        <div class="row">
+            <div class="col-lg-10 mx-auto">
+                <div class="row center-wrapper">
+                    <div class="col-lg-4  col-md-12 col-12 ">
+                        <div class="footer_content frst">
+                            <div class="logoDv">
+                                <figure><img src="img/app-logo.png" class="img-fluid"></figure>
+                            </div>
+                        </div>
+                        <div class="footer_content pl-4">
+                            <div class="head new-slatter">
+                                <h5>Newsletter
+                                </h5>
+                            </div>
+                            <form action="">
+                                <div class="all-footer-icon-logo ">
+                                    <p>Subscribe our newsletter to get our latest update & news
+                                    </p>
+                                    <div class="newsletter_wrapper">
+                                        <form class="d-flex news-wrapper" role="search">
+                                            <input class="form-control me-2" aria-label="Search" placeholder="Enter Your Email">
+                                            <button class="btn btn-outline-success" type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-6">
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="footer_content">
+                            <div class="head">
+                                <h5>Official info
+                                </h5>
+                            </div>
+                            <div class="email">
+                                <div class="main-email">
+                                    <ul>
+                                        <li>
+                                            <i class="fa fa-envelope-open" aria-hidden="true"></i>
+                                            <a href="">
+                                                <h6> sales@americanpatchandpin.com</h6>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                            <a href="">
+                                                <h6> 1503 Bell AVE. Altoona, PA 16602
+                                                </h6>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-phone" aria-hidden="true"></i>
+                                            <a href="">
+                                                <h6> 1-888-281-4114</h6>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="social-facebook-items">
+                                <div class="border-facebook">
+                                    <a href=""><i class="fa fa-facebook" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                                <div class="border-instagram">
+                                    <a href=""><i class="fa fa-instagram" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-3 col-md-4 col-6">
                 <div class="footer_content pl-4">
                     <div class="head">
                         <h5>Newsletter
@@ -62,14 +93,17 @@
                         </div>
                     </form>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-6">
-                <div class="footer_content-logo-wrapper pl-4">
-                    <div class="head">
-                        <h5> Gallery
-                        </h5>
-                    </div>
-                    <ul class="footer-menus">
+            </div> -->
+                    <div class="col-lg-4 col-md-4 col-6">
+                        <div class="footer_content-logo-wrapper pl-4">
+                            <div class="head">
+                                <h5> WE ACCEPT PAYMENT THROUGH THESE AFFILIATES
+                                </h5>
+                            </div>
+                            <a href="">
+                                <img src="img/paypal.png" class="img-fluid" alt="">
+                            </a>
+                            <!-- <ul class="footer-menus">
                         <a href="#">
                             <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="800"><img src="img/challenge-coin4.png" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
@@ -102,7 +136,9 @@
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
-                    </ul>
+                    </ul> -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -16,10 +16,10 @@
     <div id="preloader"></div>
     <!-- Site Loader End Here -->
 
-    <div id="stop" class="scrollTop pulse">
+    <!-- <div id="stop" class="scrollTop pulse">
         <span><a href="#scrolltopwrapper"><i class="fa fa-chevron-up" aria-hidden="true"></i>
             </a></span>
-    </div>
+    </div> -->
 
 </body>
 

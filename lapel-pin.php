@@ -15,27 +15,20 @@
                 <div class="row">
                     <div class="col-lg-7 p-0">
                         <div class="patches-content">
-                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine">Custom Lapel Pins
+                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Custom Lapel Pins
                             </h1>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Incredibly Low Pricing
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Reproduction of New or Existing Designs For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Our Professional Graphic Designers Will Help You Every Step of the Way
                                             </h5>
                                         </li>
@@ -43,21 +36,15 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> 7-Day Rush Delivery Service Available
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Millions of Patches Sold Annually
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300"
-                                            data-aos-easing="ease-in-sine"><i class="fa fa-circle"
-                                                aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Official Patch and Pin Suppliers For Disney, Lucas Films, Marvel, and
                                                 DC Comics.
                                             </h5>
@@ -67,8 +54,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>HIGHEST QUALITY GUARANTEED
                                         </h5>
@@ -76,8 +62,7 @@
 
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>
                                             LOWEST PRICE
@@ -88,17 +73,15 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000"
-                                        data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i
-                                                    class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-5 align-items-center">
-                        <figure class="patches-img">
+                        <figure class="patches-img" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                             <img src="./img/lapel-pin/lapel2.png" class="img-fluid" alt="">
                         </figure>
                     </div>
@@ -113,60 +96,48 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
-                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                            data-aos-easing="ease-in-sine">QUALITY LAPEL PINS
+                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">QUALITY LAPEL PINS
                         </h2>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
-                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
+                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine"></div>
                             </div>
                         </div>
-                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor"
-                            data-aos-offset="300" data-aos-duration="800">
-                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="100" data-aos-duration="800">
+                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Durable high quality low cost lapel pins
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Perfect for Trade shows
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Product & Corporate Branding
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Employee Rewards
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Bolstering Team Spirit
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300"
-                                data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Fundraising
                                 </h6>
                             </li>
                         </ul>
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500"
-                                    data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM LAPEL PIN PRICING<i
-                                                class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                                    <a href="#" class='butn butn__new'><span>VIEW CUSTOM LAPEL PIN PRICING<i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                        data-aos-duration="800">
+                    <div class="col-lg-5" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/lapel-pin/pepsi-1.png" class="img-fluid" alt="">
                         </figure>
@@ -180,14 +151,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>WHO WE'VE WORKED WITH
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">WHO WE'VE WORKED WITH
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>We are proud to partner with leading organizations across the US to provide affordable custom patches
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">We are proud to partner with leading organizations across the US to provide affordable custom patches
                     and pins.
 
                 </p>
@@ -210,14 +181,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -226,13 +197,12 @@
                 <div class="nav-tabs-wrapper">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -241,13 +211,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -256,13 +225,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -271,13 +239,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -286,13 +253,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -301,105 +267,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row mt-4">
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image43.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.png"
-                                                alt="">
-                                            <div class="content-details fadeIn-left">
-                                                <h3>
-                                                    Click on any image to enlarge </h3>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="container1">
-                                    <div class="content">
-                                        <a href="" target="_blank">
-                                            <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -410,13 +283,12 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -425,13 +297,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -440,13 +311,98 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
                                             <div class="content-overlay"></div>
-                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image38.png"
-                                                alt="">
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image43.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1600" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.png" alt="">
+                                            <div class="content-details fadeIn-left">
+                                                <h3>
+                                                    Click on any image to enlarge </h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="container1">
+                                    <div class="content">
+                                        <a href="" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <img class="content-image img-fluid" src="./img/tabs-image/tabs-image38.png" alt="">
                                             <div class="content-details fadeIn-left">
                                                 <h3>
                                                     Click on any image to enlarge </h3>
@@ -472,22 +428,21 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>CUSTOM LAPEL PIN PRICE LIST
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">CUSTOM LAPEL PIN PRICE LIST
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-1 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Factory Direct Pricing | Best Value For Your Money | Best Prices Guaranteed | Special Discounts To
+                <p data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Factory Direct Pricing | Best Value For Your Money | Best Prices Guaranteed | Special Discounts To
                     All Non-Profits
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300"
-                    data-aos-duration="800">
+                <div class="table-wrapper" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">
@@ -677,7 +632,7 @@
                     <div class="col-lg-5 mx-auto mt-3
                      text-center">
                         <div class="for-size">
-                            <p>NO MOLD CHARGE REGARDLESS OF THE PIN COUNT
+                            <p data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">NO MOLD CHARGE REGARDLESS OF THE PIN COUNT
                                 Hard Enamel Pins Add $0.25 Per Pin</a>
                             </p>
                         </div>

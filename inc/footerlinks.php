@@ -15,14 +15,6 @@
 <!-- Fancybox JS -->
 
 <script>
-    //Click event to scroll to top
-    $(scrollTop).click(function() {
-        $('html, body').animate({
-            scrollTop: 0
-        }, 800);
-        return false;
-
-    }); // click() scroll top EMD
     (function($) {
         $(function() {
 
@@ -39,11 +31,11 @@
 
 
             // If a link has a dropdown, add sub menu toggle.
-            $('nav ul li a:not(:only-child)').click(function(e) {
+            $('section.navigation nav ul li a:not(:only-child)').click(function(e) {
                 $(this).siblings('.navbar-dropdown').slideToggle("slow");
 
                 // Close dropdown when select another dropdown
-                $('.navbar-dropdown').not($(this).siblings()).hide("slow");
+                $('section.navigation .navbar-dropdown').not($(this).siblings()).hide("slow");
                 e.stopPropagation();
             });
 
@@ -59,6 +51,8 @@
 <script>
     $(document).ready(function() {
         AOS.init();
+
+
     });
 
     //refresh animations
@@ -97,9 +91,28 @@
         // declare variable
 
     });
-    $(document).ready(function() {
-        $(window).scrollTop(0);
-    });
+    //Click event to scroll to top
+    // $(scrollTop).click(function() {
+    //     $('html, body').animate({
+    //         scrollTop: 0
+    //     }, 800);
+    //     return false;
+
+    // }); // click() scroll top EMD
+    // $(document).ready(function() {
+    //     $(window).scrollTop(0);
+    // });
+</script>
+<script type="text/javascript">
+    /* Simple appearence with animation AN-1*/
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "290px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+    /* Simple appearence with animation AN-1*/
 </script>
 <script>
     // Fancybox Config
@@ -118,14 +131,14 @@
     });
 
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 100) {
+        if ($(this).scrollTop() > 0) {
             $('.web-header').addClass('sticky')
         } else {
             $('.web-header').removeClass('sticky')
         }
     });
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 80) {
+        if ($(this).scrollTop() > 0) {
             $('.navigation ').addClass('stickynav')
         } else {
             $('.navigation').removeClass('stickynav')

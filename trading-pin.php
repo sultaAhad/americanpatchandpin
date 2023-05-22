@@ -41,7 +41,7 @@
                                             </h5>
                                         </li>
                                         <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
-                                            <h5>Millions of Trading Pins Annually
+                                            <h5>Millions of Trading Pins Sold Annually
                                             </h5>
                                         </li>
                                         <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 align-items-center">
-                        <figure class="patches-img">
+                        <figure class="patches-img" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                             <img src="./img/trading-pin/pins.png" class="img-fluid" alt="">
                         </figure>
                     </div>
@@ -96,42 +96,41 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
-                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">AFFORDABLE CUSTOM TRADING PINS
+                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">AFFORDABLE CUSTOM TRADING PINS
                         </h2>
-                        <p>Make every season one to remember! Start a new tradition for your team with custom trading
+                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">Make every season one to remember! Start a new tradition for your team with custom trading
                             pins. Fast delivery in 7 days or less.
 
                         </p>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
-                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
+                                <div class="border-bottom" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="100" data-aos-duration="800"></div>
                             </div>
                         </div>
-                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
-                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                        <ul class="list-sports">
+                            <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Baseball Teams
-
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Perfect for Trade shows
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Softball Teams
 
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Employee Rewards
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Youth Leagues
 
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Adult Leagues
 
                                 </h6>
@@ -139,13 +138,13 @@
                         </ul>
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <a href="#" class='butn butn__new'><span>VIEW CUSTOM TRADING PIN PRICING<i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                    <div class="col-lg-5" data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/trading-pin/sox-1.png" class="img-fluid" alt="">
                         </figure>
@@ -159,14 +158,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>WHO WE'VE WORKED WITH
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">WHO WE'VE WORKED WITH
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>We are proud to partner with leading organizations across the US to provide affordable custom patches
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">We are proud to partner with leading organizations across the US to provide affordable custom patches
                     and pins.
 
                 </p>
@@ -189,14 +188,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -205,7 +204,7 @@
                 <div class="nav-tabs-wrapper">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -219,7 +218,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -233,7 +232,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -247,7 +246,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -261,7 +260,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -275,7 +274,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1600" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -291,7 +290,7 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -305,7 +304,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -338,20 +337,20 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>TRADING PIN PRICES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">TRADING PIN PRICES
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-1 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p class="no-set-para">No Set Up Charges | Fast Delivery | Factory Direct Pricing
+                <p class="no-set-para" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">No Set Up Charges | Fast Delivery | Factory Direct Pricing
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                <div class="table-wrapper" data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">

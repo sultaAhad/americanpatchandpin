@@ -4,14 +4,9 @@ h1.main-section-heading {
 	text-transform: capitalize;
 }
 section.main-heading-section {
-	/* background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important; */
+	background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important;
 	position: relative;
 	padding: 50px;
-	background: radial-gradient(
-		circle at 24.1% 68.8%,
-		rgb(0, 0, 0) 0%,
-		rgb(50, 50, 50) 99.4%
-	) !important;
 }
 .main-pricing-tabs li.nav-item .nav-link {
 	padding: 18px 142px;

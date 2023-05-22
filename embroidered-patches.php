@@ -7,7 +7,7 @@
 <!-- App Include Here -->
 
 <!-- SECTION START -->
-<section class="patches-sec">
+<section class="patches-sec patches-sec1">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto">
@@ -16,7 +16,7 @@
                         <div class="patches-content">
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Custom Embroidered Patches Lowest Price Guaranteed
                             </h1>
-                            <div class="row" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">>
+                            <div class="row" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="col-lg-12">
                                     <figure class="patches-img">
                                         <img src="./img/patches1/patches.png" class="img-fluid" alt="">
@@ -80,13 +80,13 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine">
-                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                        <a href="get-free-Quote-form.php" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center">
+                    <div class="col-lg-5 align-items-center" data-aos="fade-left" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                         <form action="">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -179,55 +179,55 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-7 mx-auto ">
-                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">EMBROIDERED CUSTOM PATCHES
+                        <h2 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">EMBROIDERED CUSTOM PATCHES
                         </h2>
                         <div class="row">
                             <div class="col-lg-2 mt-2">
-                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine"></div>
+                                <div class="border-bottom" data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine"></div>
                             </div>
                         </div>
-                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">Quality custom patches no matter what budget you’re working
+                        <p data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">Quality custom patches no matter what budget you’re working
                             with. Perfect for:
                         </p>
-                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                        <ul class="list-sports" data-aos="zoom-out-right" data-aos-anchor="#example-anchor" data-aos-offset="100" data-aos-duration="800">
                             <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Sport Teams
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Businesses
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Motorcycle Clubs
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Events
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Camping
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Scouting
                                 </h6>
                             </li>
-                            <li data-aos="fade-right" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
+                            <li data-aos="fade-right" data-aos-duration="1400" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-check" aria-hidden="true"></i>
                                 <h6>Martial Arts Teams
                                 </h6>
                             </li>
                         </ul>
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                <div class="banner pricing" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <a href="#" class='butn butn__new'><span>VIEW CUSTOM PATCH PRICING <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                    <div class="col-lg-5" data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/patches1/patches2.png" class="img-fluid" alt="">
                         </figure>
@@ -241,14 +241,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>WHO WE'VE WORKED WITH
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">WHO WE'VE WORKED WITH
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>We are proud to partner with leading organizations across the US to provide affordable custom patches
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">We are proud to partner with leading organizations across the US to provide affordable custom patches
                     and pins.
 
                 </p>
@@ -271,14 +271,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -287,7 +287,7 @@
                 <div class="nav-tabs-wrapper">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -301,7 +301,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -315,7 +315,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -329,7 +329,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -343,7 +343,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -359,7 +359,7 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -373,7 +373,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -387,7 +387,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -401,7 +401,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -415,7 +415,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -431,7 +431,7 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -445,7 +445,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1600" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -459,7 +459,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -473,7 +473,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1800" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -487,7 +487,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate data-aos="zoom-in" data-aos-duration="1900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -512,14 +512,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>CUSTOM EMBROIDERED PATCH PRICES LIST UP TO 99% COVERAGE
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">CUSTOM EMBROIDERED PATCH PRICES LIST UP TO 99% COVERAGE
                 </h2>
-                <div class="row">
+                <div class="row" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-1 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Factory Direct Pricing | Free Proofs Before You Pay | Express Delivery Available At No Additional
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Factory Direct Pricing | Free Proofs Before You Pay | Express Delivery Available At No Additional
                     Cost
                 </p>
             </div>
@@ -527,23 +527,23 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="determining-size-content">
-                    <h4>Determining Size
+                    <h4 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Determining Size
                     </h4>
                     <ul class="determinig-size-list">
-                        <li>
+                        <li data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine">
                             <i class="fa fa-check" aria-hidden="true"></i>
                             <h6>You can calculate the size of your patch by adding the Length + Width and then dividing
                                 it by 2.
                             </h6>
                         </li>
-                        <li>
+                        <li data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                             <i class="fa fa-check" aria-hidden="true"></i>
                             <h6>Example: 4 x 5 " patch 4" + 5" = 9" divided by 2 = 4-1/2" size for pricing.
                             </h6>
                         </li>
                     </ul>
                 </div>
-                <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                <div class="table-wrapper" data-aos="zoom-in" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="row">
                         <div class="col-md-12">
                             <table class="table">
@@ -814,7 +814,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <div class="for-size">
-                            <p>For Sizes over 5″ & Quantities Over 5,000 <a href="">Request a Quote.</a>
+                            <p data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">For Sizes over 5″ & Quantities Over 5,000 <a href="">Request a Quote.</a>
                             </p>
                         </div>
                     </div>
@@ -822,30 +822,30 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="determining-size-content">
-                            <h4>Backing Options Available Are Listed Below.
+                            <h4 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Backing Options Available Are Listed Below.
                             </h4>
                             <ul class="determinig-size-list">
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Iron-on Backing: 10¢
                                     </h6>
                                 </li>
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Adhesive Backing: 20¢
                                     </h6>
                                 </li>
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Hook Backing: 35¢
                                     </h6>
                                 </li>
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Hook-and-loop Backing: 65¢
                                     </h6>
                                 </li>
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Additional Colors: 15¢ per color
                                     </h6>
                                 </li>
-                                <li>
+                                <li data-aos="fade-right" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <h6>Metallic Thread: Starts at 30% depending on the coverage.
                                     </h6>
                                 </li>

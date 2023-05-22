@@ -1,4 +1,4 @@
-<header id="scrolltopwrapper" class="header-top">
+<!-- <header id="scrolltopwrapper" class="header-top">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -12,7 +12,7 @@
                             <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="javascript:void(0)" onclick="openNav()" style="cursor: pointer;">
                                 <div class="shopping-card">
                                     <h4>$0.00</h4><i class="fa fa-shopping-cart" aria-hidden="true"></i>
                                     <div class="dot-wrapper">
@@ -26,47 +26,77 @@
             </div>
         </div>
     </div>
-</header>
+</header> -->
 <header class="web-header">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg navbar-light ">
-                    <div class="header-main">
-                        <ul class="navbar-nav ">
-                            <li class="nav-item">
-                                <a class="nav-link " href="home.php">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="embroidered-patches.php">Embroidered Patches</a>
-                            </li>
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-lg-2">
+                            <div class="img-logo-main">
+                                <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9">
+                            <ul class="navbar-nav ">
+                                <li class="nav-item">
+                                    <a class="nav-link " href="home.php">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="embroidered-patches.php">Embroidered Patches</a>
+                                </li>
 
-                            <li class="nav-item">
-                                <a class="nav-link" href="lapel-pin.php">Lapel Pins</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="trading-pin.php">Trading Pins</a>
-                            </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="lapel-pin.php">Lapel Pins</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="trading-pin.php">Trading Pins</a>
+                                </li>
 
-                            <li class="nav-item">
-                                <a class="nav-link" href="challenge-coin.php">Challenge Coins</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="medals.php">Medals</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="pricing.php">Pricing</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="Galleries.php">Galleries</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="faqs.php">FAQ</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="free-quote.php">FREE QUOTE </a>
-                            </li>
-                        </ul>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="challenge-coin.php">Challenge Coins</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="medals.php">Medals</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="pricing.php">Pricing</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <div class="dropdown-in-the-header">
+                                        <a href="Galleries.php" class="nav-link">Galleries
+                                            <i class="fa fa-caret-down"></i>
+                                        </a>
+                                        <div class="dropdown-content">
+                                            <a href="#">Link 1</a>
+                                            <a href="#">Link 2</a>
+                                            <a href="#">Link 3</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="faqs.php">FAQ</a>
+                                </li>
+                                <li class="nav-item free-quote">
+                                    <a class=" butn butn__new" href="free-quote.php">FREE QUOTE </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-1">
+                            <ul class="header-sticky-social">
+                                <li>
+                                    <a href="javascript:void(0)" onclick="openNav()" style="cursor: pointer;">
+                                        <div class="shopping-card">
+                                            <h4>$0.00</h4><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                            <div class="dot-wrapper">
+                                                <h6>0</h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </nav>
             </div>
@@ -122,3 +152,10 @@
         </nav>
     </div>
 </section>
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="#">ITEM 1</a>
+    <a href="#">ITEM 2</a>
+    <a href="#">ITEM 3</a>
+    <a href="#">ITEM 4</a>
+</div>

@@ -58,7 +58,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center">
+                    <div class="col-lg-5 align-items-center" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                         <figure class="patches-img">
                             <img src="./img/design.png" class="img-fluid" alt="">
                         </figure>
@@ -72,11 +72,11 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-10 mx-auto text-center">
-                <h3 class="factory">FACTORY DIRECT PRICING | FREE CUSTOM QUOTES
+                <h3 class="factory" aos-init aos-animate data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">FACTORY DIRECT PRICING | FREE CUSTOM QUOTES
                 </h3>
-                <h2>QUALITY PATCHES & PINS AT AFFORDABLE PRICES
+                <h2 aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">QUALITY PATCHES & PINS AT AFFORDABLE PRICES
                 </h2>
-                <div class="row">
+                <div class="row" aos-init aos-animate data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
@@ -136,7 +136,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-4">
-                                <a href="get-free-Quote-form.php" class="butn butn__new mt-3"><span>free custom quote</span></a>
+                                <a href="" class="butn butn__new mt-3"><span>free custom quote</span></a>
                             </div>
                         </div>
                 </form>

@@ -41,7 +41,7 @@
                                             </h5>
                                         </li>
                                         <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
-                                            <h5>Millions of Medals Annually
+                                            <h5>Millions of Medals Sold Annually
                                             </h5>
                                         </li>
                                         <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
@@ -80,7 +80,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center">
+                    <div class="col-lg-5 align-items-center" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                         <figure class="patches-img">
                             <img src="./img/medals/race-medals.png" class="img-fluid" alt="">
                         </figure>
@@ -133,7 +133,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-lg-5" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                    <div class="col-lg-5" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                         <figure class="lion-img-shadow-box medels justify-content-center d-flex">
                             <img src="./img/medals/race-medals.png" class="img-fluid" alt="">
                         </figure>
@@ -147,14 +147,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>WHO WE'VE WORKED WITH
+                <h2 aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">WHO WE'VE WORKED WITH
                 </h2>
-                <div class="row">
+                <div class="row" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="7000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>We are proud to partner with leading organizations across the US to provide affordable custom patches
+                <p aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">We are proud to partner with leading organizations across the US to provide affordable custom patches
                     and pins.
 
                 </p>
@@ -177,14 +177,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2>GALLERIES
+                <h2 aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">GALLERIES
                 </h2>
-                <div class="row">
+                <div class="row" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                     <div class="col-lg-2 mx-auto">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p>Click the link below to see the gallery of your choice.
+                <p aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -193,7 +193,7 @@
                 <div class="nav-tabs-wrapper">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="row mt-4">
-                            <div class="col-lg-3">
+                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -207,7 +207,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-1">
+                            <div class="col-lg-1" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -221,7 +221,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -235,7 +235,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -249,7 +249,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -263,10 +263,9 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -280,7 +279,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -294,7 +293,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -308,7 +307,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">

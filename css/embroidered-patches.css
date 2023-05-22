@@ -1,17 +1,14 @@
-section.patches-sec {
-	background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important;
+section.patches-sec1 {
+	background: linear-gradient(90deg, #297bb5 0%, #254470 100%);
 	position: relative;
 }
+.patches-sec.patches-sec1 {
+	background: #000 !important;
+}
 section.patches-sec {
-	/* background: linear-gradient(90deg, #297bb5 0%, #254470 100%) !important; */
+	background: linear-gradient(90deg, #297bb5 0%, #254470 100%);
 	position: relative;
 	padding: 4% 0;
-	/* background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%) ! important; */
-	background: radial-gradient(
-		circle at 24.1% 68.8%,
-		rgb(0, 0, 0) 0%,
-		rgb(50, 50, 50) 99.4%
-	) !important;
 }
 figure.patches-img {
 	display: flex;
