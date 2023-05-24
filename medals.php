@@ -13,22 +13,29 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="row">
-                    <div class="col-lg-7 p-0">
+                    <div class="col-lg-8 p-0">
                         <div class="patches-content">
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Medal
                             </h1>
                             <div class="row">
+                                <div class="col-lg-12  aos-init aos-animate aos-init="" aos-animate="" data-aos=" zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                                    <figure class="patches-img">
+                                        <img src="./img/medals/race-medals.png" class="img-fluid" alt="">
+                                    </figure>
+                                </div>
+                            </div>
+                            <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Incredibly Low Pricing
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Reproduction of New or Existing Designs For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Our Professional Graphic Designers Will Help You Every Step of the Way
                                             </h5>
                                         </li>
@@ -36,15 +43,15 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> 7-Day Rush Delivery Service Available
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Millions of Medals Sold Annually
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Official Patch and Pin Suppliers For Disney, Lucas Films, Marvel, and
                                                 DC Comics.
                                             </h5>
@@ -54,7 +61,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>HIGHEST QUALITY GUARANTEED
                                         </h5>
@@ -62,7 +69,7 @@
 
                                 </div>
                                 <div class="col-lg-6">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <img src="./img/patches1/patches1.png" class="img-fluid" alt="">
                                         <h5>
                                             LOWEST PRICE
@@ -73,17 +80,94 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
-                        <figure class="patches-img">
-                            <img src="./img/medals/race-medals.png" class="img-fluid" alt="">
-                        </figure>
+                    <div class="col-lg-4 align-items-center" data-aos="fade-left" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                        <form action="">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="custom-form">
+                                        <h4 class="quick-quote text-center">Quick Quote
+                                        </h4>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="form-control1">
+                                                    <input type="name" name="" id="" placeholder="Name" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="form-control1">
+                                                    <input type="email" name="" id="" placeholder="Email (Required)" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="form-control1">
+                                                    <input type="phone" name="" id="" placeholder="Phone" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="form-control1">
+                                                    <input type="text" name="" id="" placeholder="Size" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="form-control1">
+                                                    <input type="phone" name="" id="" placeholder="Quantity" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <select class="form-select" aria-label="Default select example">
+                                                    <option selected="">Backing</option>
+                                                    <option value="1">No Backing</option>
+                                                    <option value="2">Heat Seal</option>
+                                                    <option value="3">Valcro</option>
+                                                    <option value="3">Peel and Stick</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <form class="form-container" enctype='multipart/form-data'>
+                                                <div class="upload-files-container">
+                                                    <div class="drag-file-area">
+                                                        <span class="material-icons-outlined upload-icon">
+                                                        </span>
+                                                        <h3 class="dynamic-message"> Drop files here or
+                                                        </h3>
+                                                        <label class="label"> <span class="browse-files"> <input type="file" class="default-file-input" /> <span class="browse-files-text">Select</span>
+                                                                <span></span> </span> </label>
+                                                    </div>
+                                                    <span class="cannot-upload-message"> <span class="material-icons-outlined">error</span> Please select a
+                                                        file first <span class="material-icons-outlined cancel-alert-button">cancel</span>
+                                                    </span>
+                                                    <div class="file-block">
+                                                        <div class="file-info"> <span class="material-icons-outlined file-icon">description</span>
+                                                            <span class="file-name"> </span> | <span class="file-size">
+                                                            </span>
+                                                        </div>
+                                                        <span class="material-icons remove-file-icon"><i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                        </span>
+                                                        <div class="progress-bar"> </div>
+                                                    </div>
+                                                    <button type="button" class="upload-button"> Click Here For A Free
+                                                        Quato & PDF Proof</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -137,6 +221,9 @@
                         <figure class="lion-img-shadow-box medels justify-content-center d-flex">
                             <img src="./img/medals/race-medals.png" class="img-fluid" alt="">
                         </figure>
+                        <div class="add-to-card-wrapper banner pricing">
+                            <a class="butn butn__new" href="">ADD TO CARD</a>
+                        </div>
                     </div>
                 </div>
             </div>

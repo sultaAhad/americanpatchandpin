@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="row">
-                    <div class="col-lg-7">
+                    <div class="col-lg-8">
                         <div class="patches-content">
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Custom Embroidered Patches Lowest Price Guaranteed
                             </h1>
@@ -86,7 +86,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center" data-aos="fade-left" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                    <div class="col-lg-4 align-items-center" data-aos="fade-left" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
                         <form action="">
                             <div class="row">
                                 <div class="col-lg-12">

@@ -15,7 +15,6 @@ figure.patches-img {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	height: 100%;
 }
 .patches-content h1 {
 	color: #ffffff;
@@ -401,4 +400,19 @@ h4.quick-quote.text-center {
 	font-size: 36px;
 	color: #fff;
 	padding: 20px;
+}
+input[type="date"]::before {
+	content: attr(data-placeholder);
+	width: 100%;
+}
+
+/* hide our custom/fake placeholder text when in focus to show the default
+ * 'mm/dd/yyyy' value and when valid to show the users' date of birth value.
+ */
+input[type="date"]:focus::before,
+input[type="date"]:valid::before {
+	display: none;
+}
+.patches-content {
+	margin-right: 50px;
 }

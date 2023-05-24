@@ -413,12 +413,16 @@ header.web-header {
 	color: #ffffff;
 }
 .butn.butn__new {
-	padding: 10px 21px;
-	font-size: 12px;
+	padding: 15px 40px;
+	font-size: 16px;
 	font-weight: 500;
 	text-transform: uppercase;
 	fill: #ffffff;
 	color: #ffffff;
+}
+a.butn.butn__new.btnwrapper {
+	font-size: 13px !important;
+	padding: 12px 19px !important;
 }
 .dropdown-in-the-header .dropbtn {
 	font-size: 17px;

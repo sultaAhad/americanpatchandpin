@@ -79,7 +79,7 @@
                                     <a class="nav-link" href="faqs.php">FAQ</a>
                                 </li>
                                 <li class="nav-item free-quote">
-                                    <a class=" butn butn__new" href="free-quote.php">FREE QUOTE </a>
+                                    <a class=" butn butn__new btnwrapper" href="free-quote.php">FREE QUOTE </a>
                                 </li>
                             </ul>
                         </div>

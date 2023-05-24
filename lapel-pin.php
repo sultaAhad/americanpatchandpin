@@ -13,10 +13,17 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="row">
-                    <div class="col-lg-7 p-0">
+                    <div class="col-lg-8 p-0">
                         <div class="patches-content">
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Custom Lapel Pins
                             </h1>
+                            <div class="row" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                                <div class="col-lg-12 ">
+                                    <figure class="patches-img">
+                                        <img src="./img/lapel-pin/lapel2.png" class="img-fluid" alt="">
+                                    </figure>
+                                </div>
+                            </div>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
@@ -80,11 +87,84 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 align-items-center">
-                        <figure class="patches-img" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
-                            <img src="./img/lapel-pin/lapel2.png" class="img-fluid" alt="">
-                        </figure>
+                    <div class="col-lg-4 align-items-center" data-aos="fade-left" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                        <form action="">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="custom-form">
+                                        <h4 class="quick-quote text-center">Quick Quote
+                                        </h4>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="form-control1">
+                                                    <input type="name" name="" id="" placeholder="Name" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="form-control1">
+                                                    <input type="email" name="" id="" placeholder="Email (Required)" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="form-control1">
+                                                    <input type="number" name="" id="" placeholder="phone" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="form-control1">
+                                                    <input type="number" name="" id="" placeholder="Quantity" class="form-control" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <select class="form-select" aria-label="Default select example">
+                                                    <option selected="">Pin Type</option>
+                                                    <option value="1">Soft Enamel</option>
+                                                    <option value="2">Hard Enamel</option>
+                                                    <option value="3">Printed</option>
+                                                    <option value="3">Die Struck</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <form class="form-container" enctype='multipart/form-data'>
+                                                <div class="upload-files-container">
+                                                    <div class="drag-file-area">
+                                                        <span class="material-icons-outlined upload-icon">
+                                                        </span>
+                                                        <h3 class="dynamic-message"> Drop files here or
+                                                        </h3>
+                                                        <label class="label"> <span class="browse-files"> <input type="file" class="default-file-input" /> <span class="browse-files-text">Select</span>
+                                                                <span></span> </span> </label>
+                                                    </div>
+                                                    <span class="cannot-upload-message"> <span class="material-icons-outlined">error</span> Please select a
+                                                        file first <span class="material-icons-outlined cancel-alert-button">cancel</span>
+                                                    </span>
+                                                    <div class="file-block">
+                                                        <div class="file-info"> <span class="material-icons-outlined file-icon">description</span>
+                                                            <span class="file-name"> </span> | <span class="file-size">
+                                                            </span>
+                                                        </div>
+                                                        <span class="material-icons remove-file-icon"><i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                        </span>
+                                                        <div class="progress-bar"> </div>
+                                                    </div>
+                                                    <button type="button" class="upload-button"> Click Here For A Free
+                                                        Quato & PDF Proof</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
                     </div>
+
                 </div>
             </div>
         </div>
