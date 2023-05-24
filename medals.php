@@ -7,6 +7,14 @@
 <?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
+<style>
+    figure.patches-img img {
+        width: 100%;
+        height: 240px;
+        object-fit: cover;
+    }
+</style>
+
 <!-- SECTION START -->
 <section class="patches-sec">
     <div class="container">
@@ -280,7 +288,7 @@
                 <div class="nav-tabs-wrapper">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="row mt-4">
-                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -294,7 +302,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-1" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col-lg-1" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -308,7 +316,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col-lg-3" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -322,7 +330,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -336,7 +344,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -352,7 +360,7 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -366,7 +374,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -380,7 +388,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">
@@ -394,7 +402,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                            <div class="col" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                 <div class="container1">
                                     <div class="content">
                                         <a href="" target="_blank">

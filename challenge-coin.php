@@ -116,7 +116,7 @@
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="form-control1">
-                                                    <input type="date" name="" id="" placeholder="Date Needed" class="form-control"  required="">
+                                                    <input type="date" name="" id="" placeholder="Date Needed" class="form-control" required="">
                                                 </div>
                                             </div>
                                         </div>
@@ -226,6 +226,9 @@
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/challenge-coin/challenge-img.png" class="img-fluid" alt="">
                         </figure>
+                        <div class="add-to-card-wrapper banner pricing">
+                            <a class="butn butn__new" href="">ADD TO CARD</a>
+                        </div>
                     </div>
                 </div>
             </div>

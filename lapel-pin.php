@@ -221,6 +221,9 @@
                         <figure class="lion-img-shadow-box justify-content-center d-flex">
                             <img src="./img/lapel-pin/pepsi-1.png" class="img-fluid" alt="">
                         </figure>
+                        <div class="add-to-card-wrapper banner pricing">
+                            <a class="butn butn__new" href="">ADD TO CARD</a>
+                        </div>
                     </div>
                 </div>
             </div>

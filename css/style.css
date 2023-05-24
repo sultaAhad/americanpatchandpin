@@ -424,6 +424,10 @@ a.butn.butn__new.btnwrapper {
 	font-size: 13px !important;
 	padding: 12px 19px !important;
 }
+.add-to-card-wrapper.banner.pricing {
+	text-align: center;
+}
+
 .dropdown-in-the-header .dropbtn {
 	font-size: 17px;
 	border: none;
