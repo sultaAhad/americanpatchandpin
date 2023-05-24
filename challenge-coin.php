@@ -81,7 +81,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
-                                        <a href="#" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                        <a href="free-quote.php" class='butn butn__new'><span>Get Started Now! <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -227,7 +227,7 @@
                             <img src="./img/challenge-coin/challenge-img.png" class="img-fluid" alt="">
                         </figure>
                         <div class="add-to-card-wrapper banner pricing">
-                            <a class="butn butn__new" href="">ADD TO CARD</a>
+                            <a class="butn butn__new" href="cart.php">ADD TO CARD</a>
                         </div>
                     </div>
                 </div>

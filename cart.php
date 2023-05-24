@@ -15,8 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 align-items-center justify-content-center d-flex">
-                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                    data-aos-easing="ease-in-sine">Cart
+                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Cart
                 </h1>
             </div>
         </div>
@@ -45,8 +44,7 @@
                                         <td><i class="fa fa-times" aria-hidden="true"></i>
                                         </td>
                                         <td>
-                                            <div class="img-table"> <img src="img/challenge-coin8.png" class="img-fluid"
-                                                    alt=""></div>
+                                            <div class="img-table"> <img src="img/challenge-coin8.png" class="img-fluid" alt=""></div>
                                         </td>
                                         <td>CUSTOM 3
                                         </td>
@@ -54,11 +52,9 @@
                                         </td>
                                         <td>
                                             <div class="qty-container">
-                                                <button class="qty-btn-minus btn-light" type="button"><i
-                                                        class="fa fa-minus"></i></button>
+                                                <button class="qty-btn-minus btn-light" type="button"><i class="fa fa-minus"></i></button>
                                                 <input type="text" name="qty" value="0" class="input-qty" />
-                                                <button class="qty-btn-plus btn-light" type="button"><i
-                                                        class="fa fa-plus"></i></button>
+                                                <button class="qty-btn-plus btn-light" type="button"><i class="fa fa-plus"></i></button>
                                             </div>
                                         </td>
                                         <td>$15.00
@@ -84,7 +80,7 @@
                                 <h5>$15.00</h5>
                             </div>
                             <div class="btn-wrapper-cart">
-                                <a href="" class="btn-total">
+                                <a href="checkout.php" class="btn-total">
                                     Proceed to Checkout</a>
                             </div>
                         </div>
@@ -117,23 +113,23 @@
 <!-- Footer Include Here -->
 
 <script>
-var buttonPlus = $(".qty-btn-plus");
-var buttonMinus = $(".qty-btn-minus");
+    var buttonPlus = $(".qty-btn-plus");
+    var buttonMinus = $(".qty-btn-minus");
 
-var incrementPlus = buttonPlus.click(function() {
-    var $n = $(this)
-        .parent(".qty-container")
-        .find(".input-qty");
-    $n.val(Number($n.val()) + 1);
-});
+    var incrementPlus = buttonPlus.click(function() {
+        var $n = $(this)
+            .parent(".qty-container")
+            .find(".input-qty");
+        $n.val(Number($n.val()) + 1);
+    });
 
-var incrementMinus = buttonMinus.click(function() {
-    var $n = $(this)
-        .parent(".qty-container")
-        .find(".input-qty");
-    var amount = Number($n.val());
-    if (amount > 0) {
-        $n.val(amount - 1);
-    }
-});
+    var incrementMinus = buttonMinus.click(function() {
+        var $n = $(this)
+            .parent(".qty-container")
+            .find(".input-qty");
+        var amount = Number($n.val());
+        if (amount > 0) {
+            $n.val(amount - 1);
+        }
+    });
 </script>
