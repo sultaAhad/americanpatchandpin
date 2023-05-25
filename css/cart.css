@@ -229,3 +229,8 @@ section.related-product {
 	background: #f4f4f4c4;
 	padding: 90px 0;
 }
+@media (max-width: 1367px) {
+	.total-form a {
+		padding: 11px 20px;
+	}
+}

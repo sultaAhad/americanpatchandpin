@@ -146,11 +146,11 @@ textarea#exampleFormControlTextarea1 {
 	border-radius: 10px;
 }
 .patches-are-form input.form-control {
-	border: 1px solid;
+	border: 2px solid;
 	border-color: #254571;
-	padding: 10px;
+	padding: 9px 10px;
 	margin-top: 8px;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 }
 .patches-are-form input.form-control {
 	border: 2px solid;

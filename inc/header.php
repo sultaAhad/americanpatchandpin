@@ -33,12 +33,12 @@
             <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg navbar-light ">
                     <div class="row align-items-center justify-content-center">
-                        <div class="col-lg-2">
+                        <div class="col-lg-2 p-0">
                             <div class="img-logo-main">
                                 <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
                             </div>
                         </div>
-                        <div class="col-lg-9">
+                        <div class="col-lg-8 p-0">
                             <ul class="navbar-nav ">
                                 <li class="nav-item">
                                     <a class="nav-link " href="home.php">Home</a>
@@ -83,8 +83,11 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-1">
+                        <div class="col-lg-2 p-0">
                             <ul class="header-sticky-social">
+                                <li class="phone"> <a href="signup.php"> <i class="fa fa-sign-in"
+                                            aria-hidden="true"></i>
+                                        <span> Sign-up </span></a></li>
                                 <li>
                                     <a href="javascript:void(0)" onclick="openNav()" style="cursor: pointer;">
                                         <div class="shopping-card">

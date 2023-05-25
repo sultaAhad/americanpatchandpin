@@ -261,14 +261,14 @@ ul.navbar-nav {
 	width: 100%;
 }
 header.web-header li.nav-item {
-	margin: 0 9px;
+	margin: 0 4px;
 	line-height: 1;
 	padding: 3px;
 }
 header.web-header nav ul li a.active {
 	/* border-bottom: 2px solid #c29e6c; */
 	color: #b4b4b4;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 500;
 	text-transform: uppercase;
 	vertical-align: middle;
@@ -277,6 +277,19 @@ header.web-header nav ul li a.active {
 	align-items: center;
 	justify-content: center;
 	line-height: 1;
+}
+li.phone {
+	margin-right: 20px;
+}
+ul.header-sticky-social {
+	display: flex;
+	align-items: baseline;
+	justify-content: center;
+	height: 100%;
+	margin-top: 12px;
+}
+li.phone a {
+	color: #fff;
 }
 /* ul.header-sticky-social {
 	display: flex;
