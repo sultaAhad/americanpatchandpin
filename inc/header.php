@@ -9,7 +9,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
+                            <a href=""><img src="img/app-logo.webp" class="img-fluid" alt=""></a>
                         </li>
                         <li>
                             <a href="javascript:void(0)" onclick="openNav()" style="cursor: pointer;">
@@ -35,7 +35,7 @@
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-2 p-0">
                             <div class="img-logo-main">
-                                <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
+                                <a href=""><img src="img/app-logo.webp" class="img-fluid" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-8 p-0">
@@ -85,8 +85,7 @@
                         </div>
                         <div class="col-lg-2 p-0">
                             <ul class="header-sticky-social">
-                                <li class="phone"> <a href="signup.php"> <i class="fa fa-sign-in"
-                                            aria-hidden="true"></i>
+                                <li class="phone"> <a href="signup.php"> <i class="fa fa-sign-in" aria-hidden="true"></i>
                                         <span> Sign-up </span></a></li>
                                 <li>
                                     <a href="javascript:void(0)" onclick="openNav()" style="cursor: pointer;">

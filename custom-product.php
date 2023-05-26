@@ -33,8 +33,8 @@
                     <div class="col-lg-5">
                         <div class="fancy-gallery">
                             <div class="img-wrapper-product">
-                                <a href="img/card2.png" data-fancybox="images" data-caption="challange coin">
-                                    <img src="img/card2.png" class="img-fluid" alt="">
+                                <a href="img/card2.webp" data-fancybox="images" data-caption="challange coin">
+                                    <img src="img/card2.webp" class="img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="related-main">
-                            <img src="img/card1.png" class="img-fluid" alt="">
+                            <img src="img/card1.webp" class="img-fluid" alt="">
                             <h4>CUSTOM 5</h4>
                             <ul class="star-wrapper">
                                 <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="related-main">
-                            <img src="img/card3.png" class="img-fluid" alt="">
+                            <img src="img/card3.webp" class="img-fluid" alt="">
                             <h4>CUSTOM 4</h4>
                             <ul class="star-wrapper">
                                 <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -124,7 +124,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="related-main">
-                            <img src="img/card4.png" class="img-fluid" alt="">
+                            <img src="img/card4.webp" class="img-fluid" alt="">
                             <h4>CUSTOM 2</h4>
                             <ul class="star-wrapper">
                                 <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -146,7 +146,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="related-main">
-                            <img src="img/pasadena.png" class="img-fluid" alt="">
+                            <img src="img/pasadena.webp" class="img-fluid" alt="">
                             <h4>CUSTOM 1</h4>
                             <ul class="star-wrapper">
                                 <li><i class="fa fa-star-o" aria-hidden="true"></i>

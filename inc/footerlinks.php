@@ -1,5 +1,6 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/main.js"></script>
+<script src="js/scrolltopwrapper.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/fancybox.min.js"></script>
@@ -51,8 +52,6 @@
 <script>
     $(document).ready(function() {
         AOS.init();
-
-
     });
 
     //refresh animations
@@ -60,49 +59,7 @@
         AOS.refresh();
     });
 </script>
-<script>
-    $(document).ready(function() {
-        /******************************
-            BOTTOM SCROLL TOP BUTTON
-         ******************************/
 
-        // declare variable
-        var scrollTop = $(".scrollTop");
-
-        $(window).scroll(function() {
-            // declare variable
-            var topPos = $(this).scrollTop();
-
-            // if user scrolls down - show scroll to top button
-            if (topPos > 100) {
-                $(scrollTop).css("opacity", "1");
-
-            } else {
-                $(scrollTop).css("opacity", "0");
-            }
-
-        }); // scroll END
-
-
-
-        /*************************************
-          LEFT MENU SMOOTH SCROLL ANIMATION
-         *************************************/
-        // declare variable
-
-    });
-    //Click event to scroll to top
-    // $(scrollTop).click(function() {
-    //     $('html, body').animate({
-    //         scrollTop: 0
-    //     }, 800);
-    //     return false;
-
-    // }); // click() scroll top EMD
-    // $(document).ready(function() {
-    //     $(window).scrollTop(0);
-    // });
-</script>
 <script type="text/javascript">
     /* Simple appearence with animation AN-1*/
     function openNav() {

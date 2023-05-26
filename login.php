@@ -12,7 +12,7 @@
     <div class="container-fluid">
         <div class="col-lg-6 mx-auto p-0">
             <div class="img-logo-main">
-                <a href=""><img src="img/app-logo.png" class="img-fluid" alt=""></a>
+                <a href=""><img src="img/app-logo.webp" class="img-fluid" alt=""></a>
             </div>
         </div>
         <div class="row align-items-center">
@@ -30,8 +30,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="form-outline  man">
-                                                <input type="email" id="form1Example1" placeholder="Email"
-                                                    class="form-control">
+                                                <input type="email" id="form1Example1" placeholder="Email" class="form-control">
                                                 <!-- <i class="fa fa-user" aria-hidden="true"></i> -->
                                             </div>
                                         </div>
@@ -42,8 +41,7 @@
                                                 <div class="input-group" id="show_hide_passwordtwo">
                                                     <input class="form-control" type="password" placeholder="Password">
                                                     <div class="input-group-addon">
-                                                        <a href=""><i class="fa fa-eye-slash"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href=""><i class="fa fa-eye-slash" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -53,10 +51,8 @@
                                         <div class="col-lg-12 text-center ">
                                             <div class="banner">
                                                 <a href="home.php" class="butn butn__new mb-4"><span>Sign In
-                                                        <i class="fa fa-long-arrow-right"
-                                                            aria-hidden="true"></i></span></a>
-                                                <p class="sign-in-wrapper">Dont Have An Account? <span> <a
-                                                            href="signup.php"> ( Sign Up ) </a> </span></p>
+                                                        <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+                                                <p class="sign-in-wrapper">Dont Have An Account? <span> <a href="signup.php"> ( Sign Up ) </a> </span></p>
                                             </div>
                                         </div>
                                     </div>
@@ -75,18 +71,18 @@
 <!-- Footer Include Here -->
 
 <script>
-$(document).ready(function() {
-    $("#show_hide_passwordtwo a").on('click', function(event) {
-        event.preventDefault();
-        if ($('#show_hide_passwordtwo input').attr("type") == "text") {
-            $('#show_hide_passwordtwo input').attr('type', 'password');
-            $('#show_hide_passwordtwo i').addClass("fa-eye-slash");
-            $('#show_hide_passwordtwo i').removeClass("fa-eye");
-        } else if ($('#show_hide_passwordtwo input').attr("type") == "password") {
-            $('#show_hide_passwordtwo input').attr('type', 'text');
-            $('#show_hide_passwordtwo i').removeClass("fa-eye-slash");
-            $('#show_hide_passwordtwo i').addClass("fa-eye");
-        }
+    $(document).ready(function() {
+        $("#show_hide_passwordtwo a").on('click', function(event) {
+            event.preventDefault();
+            if ($('#show_hide_passwordtwo input').attr("type") == "text") {
+                $('#show_hide_passwordtwo input').attr('type', 'password');
+                $('#show_hide_passwordtwo i').addClass("fa-eye-slash");
+                $('#show_hide_passwordtwo i').removeClass("fa-eye");
+            } else if ($('#show_hide_passwordtwo input').attr("type") == "password") {
+                $('#show_hide_passwordtwo input').attr('type', 'text');
+                $('#show_hide_passwordtwo i').removeClass("fa-eye-slash");
+                $('#show_hide_passwordtwo i').addClass("fa-eye");
+            }
+        });
     });
-});
 </script>

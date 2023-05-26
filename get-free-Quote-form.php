@@ -10,9 +10,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">get a free Quote
+                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">get a free Quote
                 </h1>
-                <h4 class="you-believe" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">you won't believe how affordable patches are!</h4>
+                <h4 class="you-believe" data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">you won't believe how affordable patches are!</h4>
             </div>
         </div>
     </div>
@@ -46,16 +46,16 @@
                         <div class="how-it-work-heading">
                             <h2>how it works!</h2>
                             <ul>
-                                <li><img src="img/phone.png" class="img-fluid" alt="">
+                                <li><img src="img/phone.webp" class="img-fluid" alt="">
                                     <h5><span>contact </span>customer service to request a quote</h5>
                                 </li>
-                                <li><img src="img/fast.png" class="img-fluid" alt="">
+                                <li><img src="img/fast.webp" class="img-fluid" alt="">
                                     <h5>receive a <span>free design proof</span> within hours</h5>
                                 </li>
-                                <li><img src="img/check1.png" class="img-fluid" alt="">
+                                <li><img src="img/check1.webp" class="img-fluid" alt="">
                                     <h5>approved the design and begin <span>production</span>of your patch</h5>
                                 </li>
-                                <li><img src="img/fast1.png" class="img-fluid" alt="">
+                                <li><img src="img/fast1.webp" class="img-fluid" alt="">
                                     <h5>fast and <span>free</span>shipping to the us</h5>
                                 </li>
                             </ul>

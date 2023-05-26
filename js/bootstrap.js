@@ -3790,7 +3790,7 @@
 	 */
 
 	const DATA_URL_PATTERN =
-		/^data:(?:image\/(?:bmp|gif|jpeg|jpg|webp|tiff|webp)|video\/(?:mpeg|mp4|ogg|webm)|audio\/(?:mp3|oga|ogg|opus));base64,[\d+/a-z]+=*$/i;
+		/^data:(?:image\/(?:bmp|gif|jpeg|webp|webp|tiff|webp)|video\/(?:mpeg|mp4|ogg|webm)|audio\/(?:mp3|oga|ogg|opus));base64,[\d+/a-z]+=*$/i;
 
 	const allowedAttribute = (attr, allowedAttributeList) => {
 		const attrName = attr.nodeName.toLowerCase();

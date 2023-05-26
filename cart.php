@@ -44,7 +44,7 @@
                                         <td><i class="fa fa-times" aria-hidden="true"></i>
                                         </td>
                                         <td>
-                                            <div class="img-table"> <img src="img/challenge-coin8.png" class="img-fluid" alt=""></div>
+                                            <div class="img-table"> <img src="img/challenge-coin8.webp" class="img-fluid" alt=""></div>
                                         </td>
                                         <td>CUSTOM 3
                                         </td>

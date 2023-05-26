@@ -15,29 +15,29 @@
                 <div class="row">
                     <div class="col-lg-7 p-0">
                         <div class="patches-content">
-                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Free Custom Quote
+                            <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Free Custom Quote
 
                             </h1>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <ul>
-                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5> Fast 7 To 12 Day Delivery
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1200" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Discounts To All Non-Profits
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Custom Made For All Occasions
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>Free Proof Before You Pay
                                             </h5>
                                         </li>
-                                        <li data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
+                                        <li data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine"><i class="fa fa-circle" aria-hidden="true"></i>
                                             <h5>100% Money Back Guarantee
                                             </h5>
                                         </li>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="image-box-wrapper" data-aos="fade-right" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         <h5>Have Questions? Call Now and Get a Free Quote <br> <a href="">
                                                 <h4>1-888-281-4114
@@ -60,7 +60,7 @@
                     </div>
                     <div class="col-lg-5 align-items-center" aos-init aos-animate data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">
                         <figure class="patches-img">
-                            <img src="./img/design.png" class="img-fluid" alt="">
+                            <img src="./img/design.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>

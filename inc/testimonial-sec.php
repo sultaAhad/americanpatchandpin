@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="testimonial-icon-wrapper">
-            <figure><img src="img/testimonial-icon.jpg" class="img-fluid"></figure>
+            <figure><img src="img/testimonial-icon.webp" class="img-fluid"></figure>
         </div>
         <div class="testimonial-slider col-lg-7 mx-auto">
             <div class="testimonials-wap">

@@ -15,8 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 align-items-center justify-content-center d-flex">
-                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300"
-                    data-aos-easing="ease-in-sine">Checkout
+                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Checkout
                 </h1>
             </div>
         </div>
@@ -45,7 +44,7 @@
                         <tbody>
                             <tr>
                                 <td>
-                                    <div class="img-table"> <img src="img/challenge-coin8.png" class="img-fluid" alt="">
+                                    <div class="img-table"> <img src="img/challenge-coin8.webp" class="img-fluid" alt="">
                                     </div>
                                 </td>
                                 <td>CUSTOM 3
@@ -57,7 +56,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <div class="img-table"> <img src="img/card4.png" class="img-fluid" alt=""></div>
+                                    <div class="img-table"> <img src="img/card4.webp" class="img-fluid" alt=""></div>
                                 </td>
                                 <td>CUSTOM 3
                                 </td>
@@ -68,7 +67,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <div class="img-table"> <img src="img/card2.png" class="img-fluid" alt=""></div>
+                                    <div class="img-table"> <img src="img/card2.webp" class="img-fluid" alt=""></div>
                                 </td>
                                 <td>CUSTOM 4
                                 </td>
@@ -109,15 +108,13 @@
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <label for="inputPassword5" class="form-label">First name <sup>*</sup></label>
-                                        <input type="text" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="text" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <label for="inputPassword5" class="form-label">Last name <sup>*</sup></label>
-                                        <input type="text" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="text" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -126,8 +123,7 @@
                                     <div class="form-group">
                                         <label for="inputPassword5" class="form-label">Company name (optional)
                                         </label>
-                                        <input type="text" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="text" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -137,8 +133,7 @@
                                         <label for="inputPassword5" class="form-label">Company name (optional)
                                             <sup>*</sup>
                                         </label>
-                                        <select id="inputPassword5" class="form-select"
-                                            aria-label="Default select example">
+                                        <select id="inputPassword5" class="form-select" aria-label="Default select example">
                                             <option selected="">Patches</option>
                                             <option value="1">Lapel Pins</option>
                                             <option value="2">challenge Coins</option>
@@ -153,12 +148,8 @@
                                     <div class="form-group">
                                         <label for="inputPassword5" class="form-label">Street address <sup>*</sup>
                                         </label>
-                                        <input type="text" id="inputPassword5"
-                                            placeholder="House number and street number" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
-                                        <input type="text" placeholder="Apartment,suit,unit,etc.(Optional)"
-                                            id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="text" id="inputPassword5" placeholder="House number and street number" class="form-control" aria-describedby="passwordHelpBlock">
+                                        <input type="text" placeholder="Apartment,suit,unit,etc.(Optional)" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -168,8 +159,7 @@
                                         <label for="inputPassword5" class="form-label">Town / City <sup> *</sup>
 
                                         </label>
-                                        <input type="text" id="inputPassword5" placeholder="CA" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="text" id="inputPassword5" placeholder="CA" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -179,8 +169,7 @@
                                         <label for="inputPassword5" class="form-label">Postcode / ZIP
                                             <sup> *</sup>
                                         </label>
-                                        <input type="number" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="number" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -190,8 +179,7 @@
                                         <label for="inputPassword5" class="form-label">Phone <sup> * </sup>
 
                                         </label>
-                                        <input type="number" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="number" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -201,8 +189,7 @@
                                         <label for="inputPassword5" class="form-label">Email address <sup> *</sup>
 
                                         </label>
-                                        <input type="email" id="inputPassword5" class="form-control"
-                                            aria-describedby="passwordHelpBlock">
+                                        <input type="email" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
                                     </div>
                                 </div>
                             </div>
@@ -215,9 +202,7 @@
                         <div class="form-group mt-2 col-lg-12">
                             <label>Order notes (optional)
                             </label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1"
-                                placeholder="Notes about your order, e.g. special notes for delivery." rows="4"
-                                required=""></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Notes about your order, e.g. special notes for delivery." rows="4" required=""></textarea>
                         </div>
                     </div>
                 </div>

@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 align-items-center justify-content-center d-flex">
-                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Pricing
+                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Pricing
                 </h1>
             </div>
         </div>
@@ -38,21 +38,21 @@
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                             <div class="row">
                                 <div class="col-lg-11 mx-auto text-center">
-                                    <h2 aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">CUSTOM COIN PRICES
+                                    <h2 aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">CUSTOM COIN PRICES
                                     </h2>
-                                    <div class="row mb-2" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="row mb-2" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="col-lg-1 mx-auto">
                                             <div class="border-bottom"></div>
                                         </div>
                                     </div>
-                                    <p aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine">10-12 Day Delivery | Personalized Custom Minted | No Hidden
+                                    <p aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine">10-12 Day Delivery | Personalized Custom Minted | No Hidden
                                         Charges
                                     </p>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -142,7 +142,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -232,7 +232,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -349,7 +349,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1700" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1200" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -444,7 +444,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1900" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -553,7 +553,7 @@
                             </div>
                             <div class="row ">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="2100" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                                    <div class="table-wrapper" aos-init aos-animate aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="1400" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                         <div class="row mb-5">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -659,7 +659,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-11 mx-auto">
-                                    <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                                    <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="100" data-aos-duration="800">
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <table class="table">
@@ -879,7 +879,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-11 mx-auto">
-                                            <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="300" data-aos-duration="800">
+                                            <div class="table-wrapper" data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="100" data-aos-duration="800">
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <table class="table">

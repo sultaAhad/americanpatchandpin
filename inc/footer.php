@@ -7,7 +7,7 @@
                     <div class="col-lg-4  col-md-12 col-12 ">
                         <div class="footer_content frst">
                             <div class="logoDv">
-                                <figure><img src="img/app-logo.png" class="img-fluid"></figure>
+                                <figure><img src="img/app-logo.webp" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="footer_content pl-4">
@@ -101,38 +101,38 @@
                                 </h5>
                             </div>
                             <a href="">
-                                <img src="img/paypal.png" class="img-fluid" alt="">
+                                <img src="img/paypal.webp" class="img-fluid" alt="">
                             </a>
                             <!-- <ul class="footer-menus">
                         <a href="#">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="800"><img src="img/challenge-coin4.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="800"><img src="img/challenge-coin4.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
                         <a href="#">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="900"><img src="img/challenge-coin5.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="900"><img src="img/challenge-coin5.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
                         <a href="business.php">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1000"><img src="img/challenge-coin6.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1000"><img src="img/challenge-coin6.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
                     </ul>
                     <ul class="footer-menus">
                         <a href="business.php">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1100"><img src="img/challenge-coin3.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1100"><img src="img/challenge-coin3.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
                         <a href="straight-true-magzine.php">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1200"><img src="img/challenge-coin7.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1200"><img src="img/challenge-coin7.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>
                         <a href="straight-true-magzine.php">
-                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1300"><img src="img/challenge-coin8.png" class="img-fluis" alt="">
+                            <li data-aos="zoom-in" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="1300"><img src="img/challenge-coin8.webp" class="img-fluis" alt="">
                                 <div class="elementor-gallery-item__overlay"></div>
                         </a>
                         </li>

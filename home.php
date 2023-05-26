@@ -38,7 +38,7 @@
                         <div class="col-lg-6">
                             <div class="main-img-wrapper" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                 <figure>
-                                    <img src="img/hero4-1-min-1.png" class="img-fluid" alt="">
+                                    <img src="img/hero4-1-min-1.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -105,17 +105,17 @@
             <div class="col-lg-10 mx-auto">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="hundred-image-wrapper" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                        <div class="hundred-image-wrapper" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                             <figure>
-                                <img src="img/hundred-of-option.png" class="img-fluid" alt="">
+                                <img src="img/hundred-of-option.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="customize-heading">
-                            <h3 data-aos="fade-left" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">HUNDREDS OF OPTIONS
+                            <h3 data-aos="fade-left" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">HUNDREDS OF OPTIONS
                             </h3>
-                            <p data-aos="fade-left" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">We create from a large range
+                            <p data-aos="fade-left" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">We create from a large range
                                 of sizes, shapes, borders, threads,
                                 finishes, and more.
                             </p>
@@ -133,9 +133,9 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="hundred-image-wrapper" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                        <div class="hundred-image-wrapper" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                             <figure>
-                                <img src="img/hundred-of-option1.png" class="img-fluid" alt="">
+                                <img src="img/hundred-of-option1.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                     </div>
@@ -166,11 +166,11 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="slider-home">
-                    <img src="img/slider.png" class="img-fluid" alt="">
-                    <img src="img/slider1.png" class="img-fluid" alt="">
-                    <img src="img/slider2.png" class="img-fluid" alt="">
-                    <img src="img/slider3.png" class="img-fluid" alt="">
-                    <img src="img/slider4.png" class="img-fluid" alt="">
+                    <img src="img/slider.webp" class="img-fluid" alt="">
+                    <img src="img/slider1.webp" class="img-fluid" alt="">
+                    <img src="img/slider2.webp" class="img-fluid" alt="">
+                    <img src="img/slider3.webp" class="img-fluid" alt="">
+                    <img src="img/slider4.webp" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -181,14 +181,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
+                <h2 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">GALLERIES
                 </h2>
                 <div class="row">
                     <div class="col-lg-2 mx-auto">
-                        <div class="border-bottom" class="border-bottom" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate"></div>
+                        <div class="border-bottom" class="border-bottom" data-aos="zoom-in" data-aos-duration="600" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate"></div>
                     </div>
                 </div>
-                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
+                <p data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">Click the link below to see the gallery of your choice.
                 </p>
             </div>
         </div>
@@ -224,12 +224,12 @@
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                             <div class="fancy-gallery">
                                 <div class="row">
-                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image.png" target=" _blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image.webp" target=" _blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -238,12 +238,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image1.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image1.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image1.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image1.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -252,12 +252,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image2.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image2.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image2.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image2.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -266,70 +266,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image3.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image3.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image3.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image4.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image4.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image5.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image5.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image6.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image6.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image7.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image7.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image3.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -340,12 +282,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image8.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image4.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image8.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image4.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -354,12 +296,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image9.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image5.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image9.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image5.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -368,12 +310,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image10.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image6.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image10.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image6.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -382,26 +324,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image11.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image7.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image11.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image12.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image12.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image7.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -412,12 +340,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image13.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image8.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image13.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image8.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -426,12 +354,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image14.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image9.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image14.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image9.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -440,12 +368,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image15.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image10.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image10.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -454,12 +382,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image16.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image11.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image11.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -468,84 +396,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image17.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image12.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image18.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image19.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image20.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image21.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image22.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image12.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -556,12 +412,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image23.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image13.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image13.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -570,12 +426,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image24.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image14.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image14.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -584,12 +440,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image25.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image15.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -598,12 +454,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image26.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image16.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -612,84 +468,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image27.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image17.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image28.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image29.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image30.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image31.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image32.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -700,12 +484,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image33.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image18.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -714,12 +498,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image34.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image19.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -728,12 +512,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image35.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image20.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -742,12 +526,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image36.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image21.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -756,12 +540,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image37.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image22.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -772,12 +556,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image39.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image23.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -786,12 +570,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image39.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image24.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -800,12 +584,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image40.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image25.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -814,12 +598,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image41.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image26.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -828,12 +612,228 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image42.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image27.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image28.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image29.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image30.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image31.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image32.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image33.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image34.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image35.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image36.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image37.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image39.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image39.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image40.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image41.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image42.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -848,12 +848,12 @@
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                             <div class="fancy-gallery">
                                 <div class="row">
-                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -862,12 +862,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image1.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image1.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image1.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image1.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -876,12 +876,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image2.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image2.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image2.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image2.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -890,70 +890,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image3.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image3.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image3.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image4.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image4.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image5.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image5.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image6.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image6.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image7.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image7.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image3.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -964,12 +906,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image8.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image4.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image8.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image4.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -978,12 +920,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col-lg-4" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image9.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image5.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image9.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image5.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -992,12 +934,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image10.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image6.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image10.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image6.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -1006,26 +948,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image11.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image7.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image11.png" alt="">
-                                                    <div class="content-details fadeIn-left">
-                                                        <h3>
-                                                            Click on any image to enlarge </h3>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                        <div class="container1">
-                                            <div class="content">
-                                                <a href="./img/tabs-image/tabs-image12.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
-                                                    <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image12.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image7.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -1036,12 +964,12 @@
                                     </div>
                                 </div>
                                 <div class="row mt-4">
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image13.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image8.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image13.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image8.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -1050,12 +978,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image14.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image9.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image14.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image9.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -1064,12 +992,84 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                         <div class="container1">
                                             <div class="content">
-                                                <a href="./img/tabs-image/tabs-image15.png" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                <a href="./img/tabs-image/tabs-image10.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
                                                     <div class="content-overlay"></div>
-                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png" alt="">
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image10.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image11.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image11.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image12.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image12.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image13.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image13.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image14.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image14.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image15.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.webp" alt="">
                                                     <div class="content-details fadeIn-left">
                                                         <h3>
                                                             Click on any image to enlarge </h3>
@@ -1085,704 +1085,710 @@
 
                         </div>
                         <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-pins-tab">
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                            <div class="fancy-gallery">
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image15.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image15.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image16.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image17.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image18.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image19.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image16.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image20.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image21.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image22.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image23.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image24.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image17.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image25.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image18.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image26.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image19.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image27.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image28.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image29.webp" target="_blank" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image20.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image21.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image22.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image23.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image24.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row mt-4">
-
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image25.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image26.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image27.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image28.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image29.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                         <div class="tab-pane fade" id="pills-pins" role="tabpanel" aria-labelledby="pills-pins-tab">
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                            <div class="fancy-gallery">
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image30.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image30.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image31.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image32.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image33.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image34.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image35.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image31.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image32.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image33.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image34.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image35.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row mt-4">
+                                <div class="row mt-4">
 
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image36.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image36.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image37.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image38.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image38.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image39.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image40.webp" target="_blank" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image36.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image41.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image37.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image42.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image38.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image/tabs-image43.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image/tabs-image43.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
+                                    <div class="col"></div>
+                                    <div class="col"></div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image39.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image40.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image41.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image42.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image/tabs-image43.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col"></div>
-                                <div class="col"></div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="pills-pin" role="tabpanel" aria-labelledby="pills-pin-tab">
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab8.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                            <div class="fancy-gallery">
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab8.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab8.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab7.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab7.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab6.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab6.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab5.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab5.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab4.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab4.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab3.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab3.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab7.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab2.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab2.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab6.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-second/tab1.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-second/tab1.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab5.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
+                                    <div class="col">
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab4.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
+                                    <div class="col">
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab3.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
+                                    <div class="col">
                                     </div>
-                                </div>
-                            </div>
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab2.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
+                                    <div class="col">
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-second/tab1.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                </div>
-                                <div class="col">
-                                </div>
-                                <div class="col">
-                                </div>
-                                <div class="col">
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="pills-gallary" role="tabpanel" aria-labelledby="pills-gallary-tab">
-                            <div class="row mt-4">
-                                <div class="col-lg-3" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs1.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                            <div class="fancy-gallery">
+                                <div class="row mt-4">
+                                    <div class="col-lg-3" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs1.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs1.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-1" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs4.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs4.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs3.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs3.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs2.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs2.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs5.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs5.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-1" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs4.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                <div class="row mt-4">
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs6.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs6.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-lg-3" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs3.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs7.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs7.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs2.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs8.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs8.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1300" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs5.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
+                                    <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                        <div class="container1">
+                                            <div class="content">
+                                                <a href="./img/tabs-image-third/tabs9.webp" target="_blank" data-fancybox="images" data-caption="Conference Space">
+                                                    <div class="content-overlay"></div>
+                                                    <img class="content-image img-fluid" src="./img/tabs-image-third/tabs9.webp" alt="">
+                                                    <div class="content-details fadeIn-left">
+                                                        <h3>
+                                                            Click on any image to enlarge </h3>
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
+                                    <div class="col"></div>
+                                    <div class="col"></div>
                                 </div>
-                            </div>
-                            <div class="row mt-4">
-                                <div class="col" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs6.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs7.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs8.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col" data-aos="zoom-in" data-aos-duration="1100" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
-                                    <div class="container1">
-                                        <div class="content">
-                                            <a href="" target="_blank">
-                                                <div class="content-overlay"></div>
-                                                <img class="content-image img-fluid" src="./img/tabs-image-third/tabs9.png" alt="">
-                                                <div class="content-details fadeIn-left">
-                                                    <h3>
-                                                        Click on any image to enlarge </h3>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col"></div>
-                                <div class="col"></div>
                             </div>
                         </div>
                     </div>
@@ -1794,23 +1800,23 @@
         <div class="col-lg-12">
             <div class="fancy-gallery mb-5">
                 <div class="row">
-                    <a href="img/card2.png" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Conference Space">
-                        <img class="rounded" src="img/card2.png" alt="" />
+                    <a href="img/card2.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Conference Space">
+                        <img class="rounded" src="img/card2.webp" alt="" />
                     </a>
-                    <a href="../../assets/img/cowork-office.jpg" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Cowork Office">
-                        <img class="rounded" src="../../assets/img/cowork-office.jpg" alt="" />
+                    <a href="../../assets/img/cowork-office.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Cowork Office">
+                        <img class="rounded" src="../../assets/img/cowork-office.webp" alt="" />
                     </a>
-                    <a href="../../assets/img/lifestyle-office.jpg" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Lifestyle Space">
-                        <img class="rounded" src="../../assets/img/lifestyle-office.jpg" alt="" />
+                    <a href="../../assets/img/lifestyle-office.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Lifestyle Space">
+                        <img class="rounded" src="../../assets/img/lifestyle-office.webp" alt="" />
                     </a>
-                    <a href="../../assets/img/image-office.jpg" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Conference Space">
-                        <img class="rounded" src="../../assets/img/image-office.jpg" alt="" />
+                    <a href="../../assets/img/image-office.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Conference Space">
+                        <img class="rounded" src="../../assets/img/image-office.webp" alt="" />
                     </a>
-                    <a href="../../assets/img/meeting-office.jpg" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Meeting Office">
-                        <img class="rounded" src="../../assets/img/meeting-office.jpg" alt="" />
+                    <a href="../../assets/img/meeting-office.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Meeting Office">
+                        <img class="rounded" src="../../assets/img/meeting-office.webp" alt="" />
                     </a>
-                    <a href="../../assets/img/private-office.jpg" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Private Space">
-                        <img class="rounded" src="../../assets/img/private-office.jpg" alt="" />
+                    <a href="../../assets/img/private-office.webp" class="mb-4 col-6 col-sm-4 img-fluid" data-fancybox="images" data-caption="Private Space">
+                        <img class="rounded" src="../../assets/img/private-office.webp" alt="" />
                     </a>
                 </div>
             </div>
@@ -1822,14 +1828,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
-                <h2 data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">INCREDIBLE VALUE WITH NO HIDDEN FEES
+                <h2 data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">INCREDIBLE VALUE WITH NO HIDDEN FEES
                 </h2>
                 <div class="row">
-                    <div class="col-lg-2 mx-auto" data-aos="zoom-in" data-aos-duration="800" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                    <div class="col-lg-2 mx-auto" data-aos="zoom-in" data-aos-duration="800" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                         <div class="border-bottom"></div>
                     </div>
                 </div>
-                <p data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">American Patch & Pin is committed providing top quality pins and
+                <p data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">American Patch & Pin is committed providing top quality pins and
                     patches. We’ve been in business
                     since 1976, so we’ve been creating and designing custom patches that are affordable for over 4
                     decades.
@@ -1841,28 +1847,28 @@
                 <div class="row mt-4">
                     <div class="col-lg-3 p-0">
                         <div class="fast-free-main">
-                            <img src="img/value1.png" class="img-fluid" alt="">
+                            <img src="img/value1.webp" class="img-fluid" alt="">
                             <h4>FAST 7-12 DAY DELIVERY GUARANTEED
                             </h4>
                         </div>
                     </div>
                     <div class="col-lg-3 p-0">
                         <div class="fast-free-main">
-                            <img src="img/value2.png" class="img-fluid" alt="">
+                            <img src="img/value2.webp" class="img-fluid" alt="">
                             <h4>FREE PDF PROOF BEFORE PAYMENT
                             </h4>
                         </div>
                     </div>
                     <div class="col-lg-3 p-0">
                         <div class="fast-free-main">
-                            <img src="img/value3.png" class="img-fluid" alt="">
+                            <img src="img/value3.webp" class="img-fluid" alt="">
                             <h4>DISCOUNTS FOR ALL NON-PROFITS
                             </h4>
                         </div>
                     </div>
                     <div class="col-lg-3 p-0">
                         <div class="fast-free-main">
-                            <img src="img/value4.png" class="img-fluid" alt="">
+                            <img src="img/value4.webp" class="img-fluid" alt="">
                             <h4>HIGH QUALITY AT FACTORY DIRECT PRICES
                             </h4>
                         </div>
@@ -1879,23 +1885,23 @@
             <div class="col-lg-11 mx-auto">
                 <div class="row">
                     <div class="col-lg-10 mx-auto text-center">
-                        <h4 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">CUSTOM
+                        <h4 data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">CUSTOM
                         </h4>
-                        <h2 data-aos="zoom-in" data-aos-duration="700" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">OUR AFFORDABLE CUSTOM
+                        <h2 data-aos="zoom-in" data-aos-duration="700" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">OUR AFFORDABLE CUSTOM
                         </h2>
                         <div class="row">
                             <div class="col-lg-2 mx-auto">
-                                <div class="border-bottom" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                                <div class="border-bottom" data-aos="zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row" data-aos="fade-up-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
+                <div class="row" data-aos="fade-up-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine" class="aos-init aos-animate">
                     <div class="col-lg-3">
                         <a href="custom-product.php">
                             <div class="card-wrapper">
-                                <img src="img/card1.png" class="img-fluid" alt="">
+                                <img src="img/card1.webp" class="img-fluid" alt="">
                                 <h4>CUSTOM 5</h4>
                                 <ul class="star-wrapper">
                                     <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -1919,7 +1925,7 @@
                     <div class="col-lg-3">
                         <a href="custom-product.php">
                             <div class="card-wrapper">
-                                <img src="img/card2.png" class="img-fluid" alt="">
+                                <img src="img/card2.webp" class="img-fluid" alt="">
                                 <h4>CUSTOM 4</h4>
                                 <ul class="star-wrapper">
                                     <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -1943,7 +1949,7 @@
                     <div class="col-lg-3">
                         <a href="custom-product.php">
                             <div class="card-wrapper">
-                                <img src="img/card3.png" class="img-fluid" alt="">
+                                <img src="img/card3.webp" class="img-fluid" alt="">
                                 <h4>CUSTOM 3</h4>
                                 <ul class="star-wrapper">
                                     <li><i class="fa fa-star-o" aria-hidden="true"></i>
@@ -1967,7 +1973,7 @@
                     <div class="col-lg-3">
                         <a href="custom-product.php">
                             <div class="card-wrapper">
-                                <img src="img/card4.png" class="img-fluid" alt="">
+                                <img src="img/card4.webp" class="img-fluid" alt="">
                                 <h4>CUSTOM 2</h4>
                                 <ul class="star-wrapper">
                                     <li><i class="fa fa-star-o" aria-hidden="true"></i>

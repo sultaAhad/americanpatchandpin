@@ -7,7 +7,7 @@
 
 
 <!-- Favicon -->
-<link rel="icon" type="img/favicon.webp" href="img/app-logo.png">
+<link rel="icon" type="img/favicon.webp" href="img/app-logo.webp">
 <!-- Favicon -->
 
 <!-- Bootstrap CSS -->

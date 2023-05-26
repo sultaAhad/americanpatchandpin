@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 align-items-center justify-content-center d-flex">
-                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">Frequently Asked Questions
+                <h1 class="main-section-heading" data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Frequently Asked Questions
                 </h1>
             </div>
         </div>
@@ -36,7 +36,7 @@
                     </p>
                 </div>
             </div>
-            <div class="accordion mt-3" id="accordionExample" aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <div class="accordion mt-3" id="accordionExample" aos-init="" aos-animate="" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">

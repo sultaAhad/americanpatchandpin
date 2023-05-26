@@ -1170,7 +1170,7 @@ section.cta p {
 section.contact {
 	padding: 50px 0;
 	background-color: #f4f4f4c4;
-	background-image: url(../img/flag.png);
+	background-image: url(../img/flag.webp);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1511,7 +1511,7 @@ section.main-tabs.our-forbidden-custom h2 {
 .scrollTop {
 	position: fixed;
 	right: 10%;
-	bottom: 103px;
+	bottom: 53px;
 	/* background-color: #f75414; */
 	padding: 30px;
 	opacity: 0;
