@@ -1530,6 +1530,9 @@ section.main-tabs.our-forbidden-custom h2 {
 	.navbar-light .navbar-nav .nav-link {
 		font-size: 11px;
 	}
+	p {
+		font-size: 14px;
+	}
 	header.web-header nav ul li a.active {
 		font-size: 12px;
 	}
@@ -1562,6 +1565,9 @@ section.main-tabs.our-forbidden-custom h2 {
 @media (max-width: 991px) {
 	.nav-mobile {
 		display: block;
+	}
+	section.main-tabs .nav-pills .nav-link {
+		font-size: 12px;
 	}
 	section.showbg-wrap {
 		position: unset;

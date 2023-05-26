@@ -26,7 +26,7 @@
                             <h1 data-aos="fade-right" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">Medal
                             </h1>
                             <div class="row">
-                                <div class="col-lg-12  aos-init aos-animate aos-init="" aos-animate="" data-aos=" zoom-in" data-aos-duration="900" data-aos-offset="100" data-aos-easing="ease-in-sine">
+                                <div class="col-lg-12" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="100" data-aos-easing="ease-in-sine">
                                     <figure class="patches-img">
                                         <img src="./img/medals/race-medals.webp" class="img-fluid" alt="">
                                     </figure>
